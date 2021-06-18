@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm King Recon DoD</h1>
 
-<h3 align="center">Recon to U.S. Department of State</h3>
+Hi 👋, I'm King Recon DoD
 
 ![Picture](https://user-images.githubusercontent.com/28729614/122609384-477aea00-d054-11eb-912a-12e57bf9764b.jpg)
 
