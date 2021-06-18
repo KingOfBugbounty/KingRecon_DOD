@@ -1,0 +1,42 @@
+[2021-06-18 01:31:33] [nginx-version] [http] [info] https://96.127.61.145:443 [nginx]
+[2021-06-18 01:31:33] [nginx-version] [http] [info] https://52.222.42.222:443 [nginx]
+[2021-06-18 01:31:33] [nginx-version] [http] [info] https://52.61.53.41:443 [nginx]
+[2021-06-18 01:31:33] [nginx-version] [http] [info] https://96.127.53.200:443 [nginx]
+[2021-06-18 01:31:33] [tabnabbing-check] [http] [info] https://129.92.253.61:443
+[2021-06-18 01:31:57] [detect-options-method] [http] [info] https://96.127.53.200:443 [GET, HEAD, POST]
+[2021-06-18 01:31:57] [detect-options-method] [http] [info] https://52.222.42.222:443 [GET, HEAD, POST]
+[2021-06-18 01:31:57] [detect-options-method] [http] [info] https://52.61.53.41:443 [GET, HEAD, POST]
+[2021-06-18 01:31:57] [detect-options-method] [http] [info] https://96.127.61.145:443 [GET, HEAD, POST]
+[2021-06-18 01:32:29] [robots-txt] [http] [info] https://129.92.253.61:443/robots.txt
+[2021-06-18 01:32:34] [tech-detect:nginx] [http] [info] https://52.61.53.41:443
+[2021-06-18 01:32:34] [missing-x-frame-options] [http] [low] https://52.61.53.41:443
+[2021-06-18 01:32:34] [tech-detect:nginx] [http] [info] https://96.127.61.145:443
+[2021-06-18 01:32:34] [missing-x-frame-options] [http] [low] https://96.127.61.145:443
+[2021-06-18 01:32:34] [tech-detect:nginx] [http] [info] https://52.222.42.222:443
+[2021-06-18 01:32:34] [missing-x-frame-options] [http] [low] https://52.222.42.222:443
+[2021-06-18 01:32:34] [tech-detect:nginx] [http] [info] https://96.127.53.200:443
+[2021-06-18 01:32:34] [missing-x-frame-options] [http] [low] https://96.127.53.200:443
+[2021-06-18 01:32:34] [tech-detect:lightbox] [http] [info] https://129.92.253.61:443
+[2021-06-18 01:32:34] [tech-detect:bootstrap] [http] [info] https://129.92.253.61:443
+[2021-06-18 01:32:34] [tech-detect:ms-iis] [http] [info] https://129.92.253.61:443
+[2021-06-18 01:32:54] [missing-csp] [http] [info] https://129.92.253.61:443
+[2021-06-18 01:32:54] [missing-csp] [http] [info] https://96.127.61.145:443
+[2021-06-18 01:32:54] [missing-hsts] [http] [info] https://96.127.61.145:443
+[2021-06-18 01:32:54] [missing-csp] [http] [info] https://52.222.42.222:443
+[2021-06-18 01:32:54] [missing-hsts] [http] [info] https://52.222.42.222:443
+[2021-06-18 01:32:54] [missing-csp] [http] [info] https://52.61.53.41:443
+[2021-06-18 01:32:54] [missing-hsts] [http] [info] https://52.61.53.41:443
+[2021-06-18 01:32:54] [missing-csp] [http] [info] https://96.127.53.200:443
+[2021-06-18 01:32:54] [missing-hsts] [http] [info] https://96.127.53.200:443
+[2021-06-18 01:34:14] [waf-detect:apachegeneric] [http] [info] https://52.222.42.222:443/
+[2021-06-18 01:34:14] [waf-detect:nginxgeneric] [http] [info] https://52.222.42.222:443/
+[2021-06-18 01:34:14] [waf-detect:apachegeneric] [http] [info] https://96.127.61.145:443/
+[2021-06-18 01:34:14] [waf-detect:nginxgeneric] [http] [info] https://96.127.61.145:443/
+[2021-06-18 01:34:14] [waf-detect:apachegeneric] [http] [info] https://96.127.53.200:443/
+[2021-06-18 01:34:14] [waf-detect:nginxgeneric] [http] [info] https://96.127.53.200:443/
+[2021-06-18 01:34:14] [waf-detect:apachegeneric] [http] [info] https://52.61.53.41:443/
+[2021-06-18 01:34:14] [waf-detect:nginxgeneric] [http] [info] https://52.61.53.41:443/
+[2021-06-18 01:39:25] [old-copyright:copyright_year] [http] [info] https://96.127.61.145:443 [Copyright 2016]
+[2021-06-18 01:39:25] [old-copyright:copyright_year] [http] [info] https://52.222.42.222:443 [Copyright 2016]
+[2021-06-18 01:39:25] [old-copyright:copyright_year] [http] [info] https://52.61.53.41:443 [Copyright 2016]
+[2021-06-18 01:39:25] [old-copyright:copyright_year] [http] [info] https://96.127.53.200:443 [Copyright 2016]

@@ -1,0 +1,123 @@
+[2021-05-25 01:00:28] [nginx-version] [http] [info] https://usafe.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:29] [nginx-version] [http] [info] https://africom.af.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:29] [nginx-version] [http] [info] https://afrl.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:29] [nginx-version] [http] [info] https://aus.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:29] [nginx-version] [http] [info] https://cc.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:29] [nginx-version] [http] [info] https://dhs.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:29] [nginx-version] [http] [info] https://nsse.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:29] [nginx-version] [http] [info] https://southcom.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:29] [nginx-version] [http] [info] https://ss-fl.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:29] [nginx-version] [http] [info] https://ss-mobile.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:29] [waf-detect:cloudfront] [http] [info] http://nbsd.dds.mil/
+[2021-05-25 01:00:29] [waf-detect:cloudfront] [http] [info] https://staging.trando.dds.mil/
+[2021-05-25 01:00:29] [waf-detect:cloudfront] [http] [info] https://www.staging.mayo.dds.mil/
+[2021-05-25 01:00:30] [generic-tokens] [http] [info] https://www.dds.mil [KeyToLogin":false,Key":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4"]
+[2021-05-25 01:00:30] [nginx-version] [http] [info] https://ncr.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:30] [nginx-version] [http] [info] https://uk.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:30] [waf-detect:apachegeneric] [http] [info] https://idp.dns.dds.mil/
+[2021-05-25 01:00:30] [waf-detect:nginxgeneric] [http] [info] https://africom.af.dowding.cuas.dds.mil/
+[2021-05-25 01:00:30] [waf-detect:nginxgeneric] [http] [info] https://afrl.dowding.cuas.dds.mil/
+[2021-05-25 01:00:30] [waf-detect:nginxgeneric] [http] [info] https://nsse.dowding.cuas.dds.mil/
+[2021-05-25 01:00:31] [nginx-version] [http] [info] https://doi.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:31] [nginx-version] [http] [info] https://doj.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:31] [nginx-version] [http] [info] https://fe.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:31] [waf-detect:cloudfront] [http] [info] https://stage.api.crossfeed2.dds.mil/
+[2021-05-25 01:00:31] [waf-detect:cloudfront] [http] [info] https://staging.jerjerrod.dds.mil/
+[2021-05-25 01:00:32] [nginx-version] [http] [info] https://ss.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:32] [nginx-version] [http] [info] https://test.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:32] [waf-detect:nginxgeneric] [http] [info] https://ncr.dowding.cuas.dds.mil/
+[2021-05-25 01:00:32] [waf-detect:nginxgeneric] [http] [info] https://uk.dowding.cuas.dds.mil/
+[2021-05-25 01:00:35] [nginx-version] [http] [info] https://indopacom.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:35] [nginx-version] [http] [info] https://navair-west.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:37] [nginx-version] [http] [info] https://ctc.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:37] [nginx-version] [http] [info] https://demo.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:37] [nginx-version] [http] [info] https://navair-east.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:37] [nginx-version] [http] [info] https://sandia.dowding.cuas.dds.mil [nginx]
+[2021-05-25 01:00:37] [s3-detect] [http] [info] https://staging.mayo.dds.mil/%c0
+[2021-05-25 01:00:37] [s3-detect] [http] [info] https://staging.padawan.dds.mil/%c0
+[2021-05-25 01:00:37] [s3-detect] [http] [info] https://staging.roadrunner.dds.mil/%c0
+[2021-05-25 01:00:38] [tech-detect:nginx] [http] [info] https://ss.dowding.cuas.dds.mil
+[2021-05-25 01:00:38] [tech-detect:nginx] [http] [info] https://test.dowding.cuas.dds.mil
+[2021-05-25 01:00:44] [mx-service-detector:Google Apps] [dns] [info] https://dds.mil
+[2021-05-25 01:00:50] [waf-detect:cloudfront] [http] [info] https://staging.mayo.dds.mil/
+[2021-05-25 01:00:50] [waf-detect:cloudfront] [http] [info] https://staging.padawan.dds.mil/
+[2021-05-25 01:00:51] [waf-detect:nginxgeneric] [http] [info] https://doi.dowding.cuas.dds.mil/
+[2021-05-25 01:00:51] [waf-detect:nginxgeneric] [http] [info] https://doj.dowding.cuas.dds.mil/
+[2021-05-25 01:00:52] [tech-detect:bootstrap] [http] [info] https://clonewars-staging.dds.mil
+[2021-05-25 01:00:52] [tech-detect:jsdelivr] [http] [info] https://jawa.dds.mil
+[2021-05-25 01:00:52] [tech-detect:nginx] [http] [info] https://aus.dowding.cuas.dds.mil
+[2021-05-25 01:00:52] [tech-detect:nginx] [http] [info] https://doi.dowding.cuas.dds.mil
+[2021-05-25 01:00:52] [tech-detect:nginx] [http] [info] https://doj.dowding.cuas.dds.mil
+[2021-05-25 01:00:52] [tech-detect:semantic-ui] [http] [info] https://jawa.dds.mil
+[2021-05-25 01:00:53] [tech-detect:express] [http] [info] https://api.crossfeed.dds.mil
+[2021-05-25 01:00:53] [tech-detect:google-font-api] [http] [info] https://crossfeed.dds.mil
+[2021-05-25 01:00:53] [tech-detect:google-font-api] [http] [info] https://www.dds.mil
+[2021-05-25 01:00:53] [tech-detect:lightbox] [http] [info] https://www.dds.mil
+[2021-05-25 01:00:53] [tech-detect:nginx] [http] [info] https://fe.dowding.cuas.dds.mil
+[2021-05-25 01:00:53] [tech-detect:squarespace] [http] [info] https://www.dds.mil
+[2021-05-25 01:00:56] [tech-detect:nginx] [http] [info] https://cc.dowding.cuas.dds.mil
+[2021-05-25 01:00:56] [tech-detect:nginx] [http] [info] https://ss-fl.dowding.cuas.dds.mil
+[2021-05-25 01:01:19] [s3-detect] [http] [info] https://staging.goose.dds.mil/%c0
+[2021-05-25 01:01:20] [waf-detect:modsecurity] [http] [info] https://jawa.dds.mil/
+[2021-05-25 01:01:20] [waf-detect:nginxgeneric] [http] [info] https://aus.dowding.cuas.dds.mil/
+[2021-05-25 01:01:21] [waf-detect:apachegeneric] [http] [info] https://idp.preprod.dns.dds.mil/
+[2021-05-25 01:01:21] [waf-detect:cloudfront] [http] [info] http://mayo.dds.mil/
+[2021-05-25 01:01:21] [waf-detect:cloudfront] [http] [info] https://staging.goose.dds.mil/
+[2021-05-25 01:01:21] [waf-detect:nginxgeneric] [http] [info] https://cc.dowding.cuas.dds.mil/
+[2021-05-25 01:01:21] [waf-detect:nginxgeneric] [http] [info] https://ss-fl.dowding.cuas.dds.mil/
+[2021-05-25 01:01:21] [waf-detect:nginxgeneric] [http] [info] https://ss.dowding.cuas.dds.mil/
+[2021-05-25 01:01:21] [waf-detect:nginxgeneric] [http] [info] https://test.dowding.cuas.dds.mil/
+[2021-05-25 01:01:22] [waf-detect:apachegeneric] [http] [info] https://www.dds.mil/
+[2021-05-25 01:01:22] [waf-detect:ats] [http] [info] https://www.dds.mil/
+[2021-05-25 01:01:22] [waf-detect:modsecurity] [http] [info] https://www.dds.mil/
+[2021-05-25 01:01:22] [waf-detect:shadowd] [http] [info] https://www.dds.mil/
+[2021-05-25 01:01:22] [waf-detect:teros] [http] [info] https://www.dds.mil/
+[2021-05-25 01:01:28] [waf-detect:apachegeneric] [http] [info] https://dds.mil/
+[2021-05-25 01:01:28] [waf-detect:ats] [http] [info] https://dds.mil/
+[2021-05-25 01:01:28] [waf-detect:modsecurity] [http] [info] https://dds.mil/
+[2021-05-25 01:01:28] [waf-detect:shadowd] [http] [info] https://dds.mil/
+[2021-05-25 01:01:28] [waf-detect:teros] [http] [info] https://dds.mil/
+[2021-05-25 01:01:33] [s3-detect] [http] [info] https://staging.trando.dds.mil/%c0
+[2021-05-25 01:01:33] [waf-detect:cloudfront] [http] [info] https://staging.coronet.dds.mil/
+[2021-05-25 01:01:34] [s3-detect] [http] [info] https://staging.jerjerrod.dds.mil/%c0
+[2021-05-25 01:01:51] [tech-detect:nginx] [http] [info] https://ncr.dowding.cuas.dds.mil
+[2021-05-25 01:01:51] [tech-detect:nginx] [http] [info] https://uk.dowding.cuas.dds.mil
+[2021-05-25 01:02:09] [favicon-detection:openvpn] [http] [info] https://connect.cuas.dds.mil/favicon.ico
+[2021-05-25 01:02:09] [waf-detect:aws] [http] [info] https://crossfeed.dds.mil/
+[2021-05-25 01:02:09] [waf-detect:cloudfront] [http] [info] https://api.crossfeed.dds.mil/
+[2021-05-25 01:02:09] [waf-detect:cloudfront] [http] [info] https://crossfeed.dds.mil/
+[2021-05-25 01:02:09] [waf-detect:cloudfront] [http] [info] https://staging.yavin.dds.mil/
+[2021-05-25 01:02:09] [waf-detect:nginxgeneric] [http] [info] https://fe.dowding.cuas.dds.mil/
+[2021-05-25 01:02:12] [s3-detect] [http] [info] https://staging.coronet.dds.mil/%c0
+[2021-05-25 01:02:20] [s3-detect] [http] [info] https://crossfeed.dds.mil/%c0
+[2021-05-25 01:02:20] [s3-detect] [http] [info] https://staging.yavin.dds.mil/%c0
+[2021-05-25 01:02:31] [waf-detect:cloudfront] [http] [info] https://staging.roadrunner.dds.mil/
+[2021-05-25 01:03:08] [waf-detect:cloudfront] [http] [info] https://staging.crait.dds.mil/
+[2021-05-25 01:03:09] [waf-detect:nginxgeneric] [http] [info] https://dhs.dowding.cuas.dds.mil/
+[2021-05-25 01:03:13] [waf-detect:ats] [http] [info] https://defcon.dds.mil/
+[2021-05-25 01:03:26] [tech-detect:nginx] [http] [info] https://dhs.dowding.cuas.dds.mil
+[2021-05-25 01:03:27] [tech-detect:gatsby] [http] [info] https://defcon.dds.mil
+[2021-05-25 01:03:27] [tech-detect:google-font-api] [http] [info] https://defcon.dds.mil
+[2021-05-25 01:03:27] [tech-detect:react] [http] [info] https://defcon.dds.mil
+[2021-05-25 01:03:27] [tech-detect:youtube] [http] [info] https://defcon.dds.mil
+[2021-05-25 01:03:48] [s3-detect] [http] [info] https://staging.dawn.dds.mil/%c0
+[2021-05-25 01:04:44] [waf-detect:cloudfront] [http] [info] https://staging.r4.dds.mil/
+[2021-05-25 01:07:17] [waf-detect:cloudfront] [http] [info] https://api.crossfeed2.dds.mil/
+[2021-05-25 01:07:17] [waf-detect:cloudfront] [http] [info] https://staging.mystatus.dds.mil/
+[2021-05-25 01:12:07] [s3-detect] [http] [info] https://staging.crait.dds.mil/%c0
+[2021-05-25 01:13:15] [tech-detect:nginx] [http] [info] https://southcom.dowding.cuas.dds.mil
+[2021-05-25 01:14:27] [s3-detect] [http] [info] https://staging.r4.dds.mil/%c0
+[2021-05-25 01:14:55] [s3-detect] [http] [info] https://staging.mystatus.dds.mil/%c0
+[2021-05-25 01:17:16] [tech-detect:nginx] [http] [info] https://ctc.dowding.cuas.dds.mil
+[2021-05-25 01:17:16] [tech-detect:nginx] [http] [info] https://navair-east.dowding.cuas.dds.mil
+[2021-05-25 01:17:17] [tech-detect:jsdelivr] [http] [info] https://jawa-staging.dds.mil
+[2021-05-25 01:17:17] [tech-detect:semantic-ui] [http] [info] https://jawa-staging.dds.mil
+[2021-05-25 01:17:24] [tech-detect:bootstrap] [http] [info] https://clonewars-experimental.dds.mil
+[2021-05-25 01:17:24] [tech-detect:bootstrap] [http] [info] https://clonewars.dds.mil
+[2021-05-25 01:17:27] [waf-detect:cloudfront] [http] [info] https://staging.dawn.dds.mil/
+[2021-05-25 01:17:27] [waf-detect:nginxgeneric] [http] [info] https://southcom.dowding.cuas.dds.mil/
+[2021-05-25 01:17:31] [tech-detect:nginx] [http] [info] https://africom.af.dowding.cuas.dds.mil
+[2021-05-25 01:17:32] [tech-detect:nginx] [http] [info] https://nsse.dowding.cuas.dds.mil
+[2021-05-25 01:18:48] [waf-detect:modsecurity] [http] [info] https://jawa-staging.dds.mil/
+[2021-05-25 01:18:48] [waf-detect:nginxgeneric] [http] [info] https://ctc.dowding.cuas.dds.mil/
+[2021-05-25 01:18:48] [waf-detect:nginxgeneric] [http] [info] https://navair-east.dowding.cuas.dds.mil/
