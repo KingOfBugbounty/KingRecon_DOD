@@ -1,0 +1,13 @@
+dha-125-250.mc.mil
+dha-35-69.mc.mil
+host-214-18-31-29.rtp.mc.mil
+host205109.mc.mil
+host205109.usmc.mc.mil
+host205110.mc.mil
+host21452.usmc.mc.mil
+mef-emh.21444.mc.mil
+mef-emh.21444.usmc.mc.mil
+mef-emh.mc.mil
+namru3-21-93.med.mc.mil
+rs35ws195.mc.mil
+www.mc.mil

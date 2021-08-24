@@ -1,0 +1,3 @@
+ncnmr01.norad.mil
+scadb.norad.mil
+www.norad.mil

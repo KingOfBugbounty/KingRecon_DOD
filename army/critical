@@ -1,5 +1,0 @@
-[2021-05-07 02:56:16] [CVE-2020-14179] [http] [medium] https://collab.atsc.army.mil/secure/QueryComponent!Default.jspa
-[2021-05-07 02:56:21] [sap-recon-detect] [http] [medium] https://gfebssus.army.mil/CTCWebService/CTCWebServiceBean
-[2021-05-07 02:56:22] [sap-recon-detect] [http] [medium] https://gfebssus.army.mil/CTCWebService/CTCWebServiceBean?wsdl
-[2021-05-07 02:56:49] [sap-recon-detect] [http] [medium] https://gfesprd1.army.mil/CTCWebService/CTCWebServiceBean
-[2021-05-07 02:56:49] [sap-recon-detect] [http] [medium] https://gfesprd1.army.mil/CTCWebService/CTCWebServiceBean?wsdl

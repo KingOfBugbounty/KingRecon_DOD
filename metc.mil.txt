@@ -1,0 +1,4 @@
+intranet.metc.mil
+www.metc.mil
+mx2.metc.mil
+mx1.metc.mil

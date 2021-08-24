@@ -1,9 +1,0 @@
-[2021-05-07 02:46:39] [exposed-authentication.asmx] [http] [low] https://arl.apgea.army.mil/_vti_bin/Authentication.asmx?op=Mode
-[2021-05-07 02:46:39] [exposed-authentication.asmx] [http] [low] https://cbconnect.apgea.army.mil/_vti_bin/Authentication.asmx?op=Mode
-[2021-05-07 02:46:44] [exposed-authentication.asmx] [http] [low] https://ako.ssi.tradoc.army.mil/_vti_bin/Authentication.asmx?op=Mode
-[2021-05-07 02:46:44] [exposed-authentication.asmx] [http] [low] https://phc.amedd.army.mil/_vti_bin/Authentication.asmx?op=Mode
-[2021-05-07 02:46:47] [exposed-sharepoint-list] [http] [low] https://ako.ssi.tradoc.army.mil/_vti_bin/lists.asmx?WSDL
-[2021-05-07 02:47:22] [exposed-authentication.asmx] [http] [low] https://teams-ako.amrdec.army.mil/_vti_bin/Authentication.asmx?op=Mode
-[2021-05-07 02:47:25] [exposed-authentication.asmx] [http] [low] https://p3.amedd.army.mil/_vti_bin/Authentication.asmx?op=Mode
-[2021-05-07 02:47:44] [exposed-authentication.asmx] [http] [low] https://knowledgecenter-ako.amrdec.army.mil/_vti_bin/Authentication.asmx?op=Mode
-[2021-05-07 02:47:47] [exposed-authentication.asmx] [http] [low] https://www.sddc.army.mil/_vti_bin/Authentication.asmx?op=Mode
