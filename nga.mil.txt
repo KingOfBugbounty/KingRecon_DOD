@@ -1144,7 +1144,6 @@ gsrp.nga.mil
 mission-data0.gvs.nga.mil
 stage.east.paas.nga.mil
 portal.geo.nga.mil
-www.nga.mil
 matomo.east.paas.nga.mil
 www-e.geo.nga.mil
 windev02.ozone.nga.mil
@@ -1195,6 +1194,7 @@ csidm.geointel.nga.mil
 uaa.system.east.paas.nga.mil
 dev.east.paas.nga.mil
 datacorps.bfe.test.xc.nga.mil
+www.nga.mil
 ftp-e.geo.nga.mil
 dvof-w.geointel.nga.mil
 gdc.nga.mil

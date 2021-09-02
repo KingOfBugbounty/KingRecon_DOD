@@ -146,6 +146,7 @@ sdigm-02.darpa.mil
 seg.darpa.mil
 mtg5.darpa.mil
 acquisitioninnovation.darpa.mil
+sbc.apps.darpa.mil
 contact.darpa.mil
 fett.darpa.mil
 cerspassrecover.darpa.mil
@@ -180,6 +181,7 @@ vpn-23.darpa.mil
 search.darpa.mil
 enrollme.darpa.mil
 baat.darpa.mil
+sdrsbc.apps.darpa.mil
 dct.darpa.mil
 vpn-22.darpa.mil
 extranet.darpa.mil

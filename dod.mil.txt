@@ -314,8 +314,8 @@ ucolie24.nces.dod.mil
 ucolie47.nces.dod.mil
 ucolie71.nces.dod.mil
 ucolie58.nces.dod.mil
-ctim.defensetravel.dod.mil
 www.defensetravel.dod.mil
+ctim.defensetravel.dod.mil
 ucolie79.nces.dod.mil
 ucoliee5b.nces.dod.mil
 ucolie94.nces.dod.mil

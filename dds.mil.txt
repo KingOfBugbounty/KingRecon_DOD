@@ -17,10 +17,8 @@ test.mirs.dds.mil
 portal.preprod.dns.dds.mil
 staging-api.mirs.dds.mil
 www.infratest.sandbox.saber.dds.mil
-staging.mystatus.dds.mil
 grafana.dds.mil
 www.experimental.goose.dds.mil
-wazuh.cuas.dds.mil
 stage.api.crossfeed2.dds.mil
 staging.mayo.dds.mil
 www.staging.mayo.dds.mil
@@ -30,6 +28,8 @@ subscriber.preprod.dns.dds.mil
 staging.goose.dds.mil
 eeyore.dds.mil
 navair-west.dowding.cuas.dds.mil
+staging.mystatus.dds.mil
+wazuh.cuas.dds.mil
 www.staging.crait.dds.mil
 lookup.preprod.dns.dds.mil
 api.clonewars-experimental.dds.mil
@@ -38,9 +38,9 @@ dhs.dowding.cuas.dds.mil
 connect.cuas.dds.mil
 www.staging.jerjerrod.dds.mil
 staging.jerjerrod.dds.mil
+africom.dowding.cuas.dds.mil
 uk.dowding.cuas.dds.mil
 cc.dowding.cuas.dds.mil
-africom.dowding.cuas.dds.mil
 blocked.dns.dds.mil
 app.staging.saber.dds.mil
 api.saber.dds.mil
@@ -48,9 +48,9 @@ www.staging.jun.dds.mil
 portal.preprod.sentinel.dds.mil
 idp.preprod.dns.dds.mil
 jawa.dds.mil
-ss-mobile.dowding.cuas.dds.mil
 sandia.dowding.cuas.dds.mil
 www.staging.coronet.dds.mil
+ss-mobile.dowding.cuas.dds.mil
 proxy.preprod.dns.dds.mil
 www.staging.javaal.dds.mil
 phantom.dds.mil
@@ -136,13 +136,12 @@ ncr.dowding.cuas.dds.mil
 smoketest-www.mirs.dds.mil
 www.staging.r4.dds.mil
 www.staging.hawkins.dds.mil
-bug-bounty.dowding.cuas.dds.mil
 fe.dowding.cuas.dds.mil
 ss-fl.dowding.cuas.dds.mil
 aus.dowding.cuas.dds.mil
+bug-bounty.dowding.cuas.dds.mil
 www.experimental.padawan.dds.mil
 app.dev.sandbox.saber.dds.mil
-www.staging.mystatus.dds.mil
 portal.dns.dds.mil
 lookup.preprod.sentinel.dds.mil
 www.staging.wurtz.dds.mil
@@ -150,6 +149,7 @@ cuas.dds.mil
 staging.yavin.dds.mil
 clonewars-experimental.dds.mil
 indopacom.dowding.cuas.dds.mil
+www.staging.mystatus.dds.mil
 staging.wurtz.dds.mil
 guam.dds.mil
 r2d2-staging.dds.mil

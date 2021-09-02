@@ -1885,7 +1885,6 @@ mdetfb01.lejeune.usmc.mil
 mdetfbkup.lejeune.usmc.mil
 mdtvyy03.hqmc.usmc.mil
 nola0510.mfr.usmc.mil
-meeting-sp.marinenet.usmc.mil
 ymhsc1.yuma.usmc.mil
 ymhrtr1.yuma.usmc.mil
 yumamx.yuma.usmc.mil
@@ -1893,6 +1892,7 @@ www.merit.marcorsyscom.usmc.mil
 mslybc02.mcbh.usmc.mil
 mstvyx04.noc.usmc.mil
 s2manage.marinenet.usmc.mil
+meeting-sp.marinenet.usmc.mil
 3maw.usmc.mil
 3270a.quantico.usmc.mil
 intranet.mcieast.usmc.mil
@@ -2048,7 +2048,6 @@ tfdw-web.mceits.usmc.mil
 tfsms-apex.mccdc.usmc.mil
 tfsms.mceits.usmc.mil
 tfsms-apex.mceits.usmc.mil
-s1meeting.marinenet.usmc.mil
 portal.gce.iiimef.usmc.mil
 www.m4l.usmc.mil
 www2.listserv.mccll.usmc.mil
@@ -2074,6 +2073,7 @@ elearning.marinenet.usmc.mil
 lmshelp.marinenet.usmc.mil
 s3portal.marinenet.usmc.mil
 sts.usmc.mil
+s1meeting.marinenet.usmc.mil
 eko.mcnosc.usmc.mil
 emcrsc.mfr.usmc.mil
 ehqmcsupport.hqi.usmc.mil
@@ -2284,7 +2284,6 @@ www.mcu.usmc.mil
 www.mobile.usmcmax.usmc.mil
 www.netsec.noc.usmc.mil
 www.geofidelis-citrix.usmc.mil
-cqauth.marinenet.usmc.mil
 uat-builder.usmc.mil
 trmms.tecom.usmc.mil
 tmde.logcom.usmc.mil
@@ -2306,6 +2305,7 @@ cljnimdsweb001.lejeune.usmc.mil
 dtms.tfs.usmc.mil
 ahss.mcieast.usmc.mil
 stage3.marinenet.usmc.mil
+cqauth.marinenet.usmc.mil
 beta.prbuilder.usmc.mil
 bkyn0512.mfr.usmc.mil
 mobcom.mfr.usmc.mil
@@ -2458,7 +2458,6 @@ webmass3.mceits.usmc.mil
 www.tiger.marcorsyscom.usmc.mil
 www.marforlant.usmc.mil
 www.stage.usmcmax.usmc.mil
-cqpub.marinenet.usmc.mil
 www1.lejeune.usmc.mil
 www.admin.usmcmax.usmc.mil
 www.fuji.usmc.mil
@@ -2469,6 +2468,7 @@ pun10154.mcbbutler.usmc.mil
 quickplace.marcorsyscom.usmc.mil
 ssosat2.tfs.usmc.mil
 manage.marinenet.usmc.mil
+cqpub.marinenet.usmc.mil
 mol.tfs.usmc.mil
 intranet1.iimef.usmc.mil
 mwtc01e.mwtc.usmc.mil
@@ -2627,7 +2627,6 @@ www.4meb.usmc.mil
 webmail.mfr.usmc.mil
 www.clc2s2.usmc.mil
 www.geofidelis-east.usmc.mil
-meeting.marinenet.usmc.mil
 tfsms-cas.mccdc.usmc.mil
 tfrstraining.mceits.usmc.mil
 tfsms-cognos.mccdc.usmc.mil
@@ -2701,6 +2700,7 @@ clc2s.iiimef.usmc.mil
 colossus1.marines.usmc.mil
 stage1.marinenet.usmc.mil
 s1portal.marinenet.usmc.mil
+meeting.marinenet.usmc.mil
 www.sts.usmc.mil
 stg.hotline.usmc.mil
 4meb.usmc.mil
