@@ -53,9 +53,11 @@ auth.militaryonesource.mil
 vemis.militaryonesource.mil
 statepolicy.pre.militaryonesource.mil
 public.militaryonesource.mil
+waal005p.gcp.militaryonesource.mil
 mx-pri.militaryonesource.mil
 planmymove.militaryonesource.mil
 outlook.militaryonesource.mil
+oem.gcp.militaryonesource.mil
 myhub.militaryonesource.mil
 cms.militaryonesource.mil
 legacysupportrequest.uat.militaryonesource.mil
@@ -68,3 +70,4 @@ sso.militaryonesource.mil
 msepjobs.militaryonesource.mil
 msepjobs.pre.militaryonesource.mil
 gc.militaryonesource.mil
+oem.gcc.militaryonesource.mil

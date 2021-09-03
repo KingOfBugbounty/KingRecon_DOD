@@ -117,11 +117,11 @@ experimental.goose.dds.mil
 r2d2.dds.mil
 www.experimental.dawn.dds.mil
 www.staging.yavin.dds.mil
-dns.dds.mil
 test.dowding.cuas.dds.mil
 demo.dowding.cuas.dds.mil
 dowding-bugbounty-01.dowding.cuas.dds.mil
 admin.hyperspace.dds.mil
+dns.dds.mil
 holocron.dds.mil
 crossfeed.dds.mil
 subscriber.preprod.sentinel.dds.mil
@@ -176,5 +176,5 @@ mayo.dds.mil
 lookup.dns.dds.mil
 www.staging.manta.dds.mil
 defcon.dds.mil
-www.dns.dds.mil
 doj.dowding.cuas.dds.mil
+www.dns.dds.mil
