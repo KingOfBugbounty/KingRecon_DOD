@@ -194,7 +194,6 @@ dsca-apps2.dsca.mil
 dsca-vpn-55-251.rev.dsca.mil
 auth.test.scip.dsca.mil
 rcsp.dsca.mil
-socium.dsca.mil
 host-26-116.rev.dsca.mil
 host-26-205.rev.dsca.mil
 host-26-166.rev.dsca.mil
@@ -257,6 +256,7 @@ host-140-185-23-113.rev.dsca.mil
 host-140-185-23-56.rev.dsca.mil
 host-140-185-23-86.rev.dsca.mil
 host-140-185-23-80.rev.dsca.mil
+socium.dsca.mil
 www.rcpams.test.dsca.mil
 host-140-185-23-84.rev.dsca.mil
 host-140-185-23-31.rev.dsca.mil

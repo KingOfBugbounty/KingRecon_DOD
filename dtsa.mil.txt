@@ -289,7 +289,6 @@ host-155-19-109-47.rev.dtsa.mil
 host-155-19-115-161.rev.dtsa.mil
 usxports.dtsa.mil
 dpars-uat.dtsa.mil
-elisa.dtsa.mil
 host-155-19-109-103.rev.dtsa.mil
 host-155-19-109-162.rev.dtsa.mil
 host-155-19-108-81.rev.dtsa.mil
@@ -328,6 +327,7 @@ host-155-19-108-255.rev.dtsa.mil
 host-155-19-115-192.rev.dtsa.mil
 host-155-19-109-111.rev.dtsa.mil
 host-155-19-115-214.rev.dtsa.mil
+elisa.dtsa.mil
 host-155-19-108-181.rev.dtsa.mil
 host-155-19-108-210.rev.dtsa.mil
 host-155-19-108-251.rev.dtsa.mil

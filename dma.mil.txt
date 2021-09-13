@@ -4004,8 +4004,8 @@ reportsdev.dma.mil
 rainier.dma.mil
 relocation.dma.mil
 servicedesk.dma.mil
-www.dma.mil
 navcms.dma.mil
+www.dma.mil
 intranetdev.dma.mil
 odeo2.dma.mil
 beast.dma.mil

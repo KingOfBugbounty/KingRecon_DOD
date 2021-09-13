@@ -231,8 +231,8 @@ gapi.ng.mil
 sd.ng.mil
 my.gkoportal.ng.mil
 admin.portal.ng.mil
-nh.ng.mil
 www.atterburymuscatatuck.in.ng.mil
+nh.ng.mil
 ngde-t32altfw-vpn01.de.ng.mil
 oh.ng.mil
 pa.ng.mil
