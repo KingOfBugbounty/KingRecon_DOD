@@ -105,7 +105,6 @@ mtg3.darpa.mil
 acts4.darpa.mil
 mailgate3.darpa.mil
 bitbucket.darpa.mil
-dpmt.darpa.mil
 casax-fs-2.darpa.mil
 casa.darpa.mil
 acts2.darpa.mil
@@ -117,6 +116,7 @@ vpn-15.darpa.mil
 ws18-151.darpa.mil
 seg2.darpa.mil
 eei.darpa.mil
+dpmt.darpa.mil
 ws18-74.darpa.mil
 mtg04.darpa.mil
 casax-dr-2.darpa.mil
@@ -141,12 +141,12 @@ dtsn.darpa.mil
 vpn-12.darpa.mil
 cgc.darpa.mil
 archive.darpa.mil
-oceanofthings.darpa.mil
 sdigm-02.darpa.mil
 seg.darpa.mil
 mtg5.darpa.mil
 acquisitioninnovation.darpa.mil
 sbc.apps.darpa.mil
+oceanofthings.darpa.mil
 contact.darpa.mil
 fett.darpa.mil
 cerspassrecover.darpa.mil
@@ -163,7 +163,6 @@ ns2.darpa.mil
 mtg2.darpa.mil
 vpn-11.darpa.mil
 mtg4.darpa.mil
-dtw.darpa.mil
 www.tfims.darpa.mil
 tfims.darpa.mil
 vault.darpa.mil
@@ -173,6 +172,7 @@ ns1.darpa.mil
 ws18-34.darpa.mil
 sfc.darpa.mil
 casax-dr-1.darpa.mil
+dtw.darpa.mil
 ws18-32.darpa.mil
 ws18-33.darpa.mil
 connect.darpa.mil
@@ -182,7 +182,6 @@ search.darpa.mil
 enrollme.darpa.mil
 baat.darpa.mil
 sdrsbc.apps.darpa.mil
-dct.darpa.mil
 vpn-22.darpa.mil
 extranet.darpa.mil
 extranet-ext.darpa.mil
@@ -190,12 +189,13 @@ loginrecover.darpa.mil
 casadr-01.darpa.mil
 baa.darpa.mil
 sbirhle.darpa.mil
-dsmt.darpa.mil
+dct.darpa.mil
 confluence.darpa.mil
-origin-www.darpa.mil
 extranet-test.darpa.mil
 acts1.darpa.mil
+dsmt.darpa.mil
 www.darpa.mil
+origin-www.darpa.mil
 jira.darpa.mil
 casadr-02.darpa.mil
 ws18-53.darpa.mil

@@ -6229,12 +6229,12 @@ workstation10.nwdc.hpc.mil
 wiseman.ors.hpc.mil
 helpdesk.hpc.mil
 erdc.hpc.mil
-oidc.hwss.hpc.mil
 portal.erdc.hpc.mil
 www.arl.hpc.mil
 portal-wiki.create.hpc.mil
 devugm.navydsrc.hpc.mil
 portal.navydsrc.hpc.mil
+oidc.hwss.hpc.mil
 discover.hpc.mil
 2008i-m.arl.hpc.mil
 dsrc120-104-sw-vlan720.arl.hpc.mil
@@ -8214,7 +8214,6 @@ iecoop.navydsrc.hpc.mil
 erdcwww.navydsrc.hpc.mil
 reservation.hpc.mil
 devcenters.navydsrc.hpc.mil
-www.dalim.erdc.hwss.hpc.mil
 host174.ngnn.hpc.mil
 host173.ngnn.hpc.mil
 host167.tardec-scn.hpc.mil
@@ -8601,7 +8600,6 @@ catd-exch-002.ops.cits.hpc.mil
 dc-nx.mhpcc.hpc.mil
 data8.ds.mhpcc.hpc.mil
 date.ds.mhpcc.hpc.mil
-dalim.erdc.hwss.hpc.mil
 dod-suite.afrl.hpc.mil
 dns1.navo.hpc.mil
 dmz-dc2.dmz.bldg85.eglin.hpc.mil
@@ -8635,6 +8633,8 @@ www.daac.hpc.mil
 training.hpc.mil
 devarl.navydsrc.hpc.mil
 afrlwww.afrl.hpc.mil
+dalim.erdc.hwss.hpc.mil
+www.dalim.erdc.hwss.hpc.mil
 orswww.afrl.hpc.mil
 msr-n008.mhpcc.hpc.mil
 msr-n002.mhpcc.hpc.mil
@@ -13749,12 +13749,12 @@ workstation10.nwdc.hpc.mil
 wiseman.ors.hpc.mil
 helpdesk.hpc.mil
 erdc.hpc.mil
-oidc.hwss.hpc.mil
 portal.erdc.hpc.mil
 www.arl.hpc.mil
 portal-wiki.create.hpc.mil
 devugm.navydsrc.hpc.mil
 portal.navydsrc.hpc.mil
+oidc.hwss.hpc.mil
 discover.hpc.mil
 2008i-m.arl.hpc.mil
 dsrc120-104-sw-vlan720.arl.hpc.mil
@@ -15734,7 +15734,6 @@ iecoop.navydsrc.hpc.mil
 erdcwww.navydsrc.hpc.mil
 reservation.hpc.mil
 devcenters.navydsrc.hpc.mil
-www.dalim.erdc.hwss.hpc.mil
 host174.ngnn.hpc.mil
 host173.ngnn.hpc.mil
 host167.tardec-scn.hpc.mil
@@ -16121,7 +16120,6 @@ catd-exch-002.ops.cits.hpc.mil
 dc-nx.mhpcc.hpc.mil
 data8.ds.mhpcc.hpc.mil
 date.ds.mhpcc.hpc.mil
-dalim.erdc.hwss.hpc.mil
 dod-suite.afrl.hpc.mil
 dns1.navo.hpc.mil
 dmz-dc2.dmz.bldg85.eglin.hpc.mil
@@ -16155,6 +16153,8 @@ www.daac.hpc.mil
 training.hpc.mil
 devarl.navydsrc.hpc.mil
 afrlwww.afrl.hpc.mil
+dalim.erdc.hwss.hpc.mil
+www.dalim.erdc.hwss.hpc.mil
 orswww.afrl.hpc.mil
 msr-n008.mhpcc.hpc.mil
 msr-n002.mhpcc.hpc.mil

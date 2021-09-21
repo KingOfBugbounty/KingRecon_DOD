@@ -44,8 +44,8 @@ gex.move.mil
 engadmin.exp.move.mil
 engadmin.experimental.move.mil
 api.move.mil
-admin.move.mil
 atlantis.infrasec.move.mil
+admin.move.mil
 assets.devlocal.move.mil
 atlantis.exp.move.mil
 orders.move.mil

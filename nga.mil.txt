@@ -1000,12 +1000,12 @@ gdn1.geoint.nga.mil
 globe-api.nga.mil
 gsr-ftp-test.nga.mil
 geonames.nga.mil
-msi.nga.mil
 dcos.research.nga.mil
 college.nga.mil
 gasmetrics.nga.mil
 home.nga.mil
 time.nga.mil
+msi.nga.mil
 pki-policy2.geointel.nga.mil
 pki-policy1.geointel.nga.mil
 opengeo.geo.nga.mil
@@ -1193,8 +1193,8 @@ gis1.geointel.nga.mil
 csidm.geointel.nga.mil
 uaa.system.east.paas.nga.mil
 dev.east.paas.nga.mil
-datacorps.bfe.test.xc.nga.mil
 www.nga.mil
+datacorps.bfe.test.xc.nga.mil
 ftp-e.geo.nga.mil
 dvof-w.geointel.nga.mil
 gdc.nga.mil

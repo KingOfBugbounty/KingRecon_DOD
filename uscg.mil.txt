@@ -1007,6 +1007,7 @@ ratsdmz.uscg.mil
 publicsearch.npfc.uscg.mil
 dcms.uscg.mil
 atlanticarea.uscg.mil
+npfcdr.uscg.mil
 mail.gslb.uscg.mil
 gateway-51-53.uscg.mil
 gateway-53-122.uscg.mil
