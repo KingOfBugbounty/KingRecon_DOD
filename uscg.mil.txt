@@ -2976,13 +2976,13 @@ cgvpntis.uscg.mil
 tfdwdev.fincen.uscg.mil
 training.financialdesktop.fincen.uscg.mil
 elearning.uscg.mil
+www.news.uscg.mil
+history.uscg.mil
+www.dco.uscg.mil
 homeport.uscg.mil
 cglink.uscg.mil
 hipapps.uscg.mil
 www.fincen.uscg.mil
-www.news.uscg.mil
-history.uscg.mil
-www.dco.uscg.mil
 ns2.gslb.uscg.mil
 naisms40.uscg.mil
 oscds-cgmx-wb02.uscg.mil
@@ -3212,8 +3212,8 @@ cgw-tnfs2.uscg.mil
 dr.sunflower.fincen.uscg.mil
 dr.casportal.fincen.uscg.mil
 aws2.uscg.mil
-ialpha.sunflower.fincen.uscg.mil
 cgstage.portal.uscg.mil
+ialpha.sunflower.fincen.uscg.mil
 reserve.uscg.mil
 www.work.uscg.mil
 smtp-mailhub-2.uscg.mil

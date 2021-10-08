@@ -166,10 +166,10 @@ jacksonville.tricare.mil
 nhc-charleston.tricare.mil
 cap.tricare.mil
 dhcape-workflow.tricare.mil
-bassett-wainwright.tricare.mil
-pearlharborhickam.tricare.mil
-beale.tricare.mil
 tripler.tricare.mil
 cherrypoint.tricare.mil
 newsroom.tricare.mil
 twentynine-palms.tricare.mil
+bassett-wainwright.tricare.mil
+pearlharborhickam.tricare.mil
+beale.tricare.mil

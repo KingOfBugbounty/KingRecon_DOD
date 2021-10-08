@@ -28,8 +28,8 @@ staging.goose.dds.mil
 eeyore.dds.mil
 navair-west.dowding.cuas.dds.mil
 wazuh.cuas.dds.mil
-afrl.dowding.cuas.dds.mil
 staging.mystatus.dds.mil
+afrl.dowding.cuas.dds.mil
 www.staging.crait.dds.mil
 lookup.preprod.dns.dds.mil
 api.clonewars-experimental.dds.mil
@@ -111,6 +111,7 @@ www.staging.dawn.dds.mil
 doi.dowding.cuas.dds.mil
 subscriber.dns.dds.mil
 ss.dowding.cuas.dds.mil
+stage.rabbit.dds.mil
 api.crossfeed.dds.mil
 staging.jun.dds.mil
 inauguration.dowding.cuas.dds.mil
@@ -134,6 +135,7 @@ thing.dev.zt.dds.mil
 southcom.dowding.cuas.dds.mil
 navair-east.dowding.cuas.dds.mil
 ncr.dowding.cuas.dds.mil
+www.stage.rabbit.dds.mil
 smoketest-www.mirs.dds.mil
 www.staging.r4.dds.mil
 www.staging.hawkins.dds.mil
@@ -147,9 +149,9 @@ portal.dns.dds.mil
 lookup.preprod.sentinel.dds.mil
 www.staging.wurtz.dds.mil
 cuas.dds.mil
+indopacom.dowding.cuas.dds.mil
 staging.yavin.dds.mil
 clonewars-experimental.dds.mil
-indopacom.dowding.cuas.dds.mil
 www.staging.mystatus.dds.mil
 staging.wurtz.dds.mil
 guam.dds.mil

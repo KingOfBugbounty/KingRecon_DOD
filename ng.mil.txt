@@ -149,9 +149,9 @@ dc.ng.mil
 ngksc2-kkoport.ng.mil
 imsppe.ng.mil
 md.ng.mil
-www.me.ng.mil
 www.ftig.ng.mil
 ut.ng.mil
+www.me.ng.mil
 www.minnesotanationalguard.ng.mil
 owa.portal.ng.mil
 ct.ng.mil

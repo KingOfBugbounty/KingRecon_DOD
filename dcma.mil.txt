@@ -12703,8 +12703,8 @@ atccsorgrev.dcma.mil
 artifactrepo.dcma.mil
 helpdesk.dcma.mil
 hati2.dcma.mil
-metrics.atc.dcma.mil
 www.dcma.mil
+metrics.atc.dcma.mil
 webmailwest.dcma.mil
 slvrthor2k8.dcma.mil
 slvr01bmaya5.dcma.mil

@@ -1843,7 +1843,6 @@ gages.erdc.dren.mil
 ms-tmg2vks.erdc.dren.mil
 mfw.dren.mil
 sms.erdc.dren.mil
-erdc.dren.mil
 puppetmaster-west.dren.mil
 radius-west-lvl2.dren.mil
 host108-rob-rtr.eng.dren.mil
@@ -1876,6 +1875,7 @@ test.el.erdc.dren.mil
 pdu-right0218-equinix-sjc.eng.dren.mil
 rfpwizard.sms.erdc.dren.mil
 mbps.erdc.dren.mil
+erdc.dren.mil
 budm.el.erdc.dren.mil
 bsafdev.el.erdc.dren.mil
 aqua.el.erdc.dren.mil
@@ -2142,9 +2142,9 @@ dsw4-720.dren.mil
 cs.erdc.dren.mil
 app2.sms.erdc.dren.mil
 graylog-dev.eng.dren.mil
+sso-mbps.erdc.dren.mil
 ltdcam.erdc.dren.mil
 mfm.dren.mil
-sso-mbps.erdc.dren.mil
 webmail-new.erdc.dren.mil
 webvpn-sandiego.dren.mil
 webvpn-wpafb.dren.mil

@@ -852,6 +852,7 @@ gato2.mda.mil
 cosgpportal.mda.mil
 authmkobpapps.mda.mil
 ocsp-cos.mda.mil
+workspace-hdx.mda.mil
 gpportal.mda.mil
 dev.mddc.mda.mil
 mko.mda.mil
@@ -903,8 +904,8 @@ mail.mda.mil
 mails.mda.mil
 dtnet.mda.mil
 cdrlvue.mda.mil
-workspace.mda.mil
 www.mda.mil
+workspace.mda.mil
 pa.mddc.mda.mil
 mdatrd.mda.mil
 vsce-uth41a.mda.mil

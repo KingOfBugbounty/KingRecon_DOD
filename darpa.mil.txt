@@ -183,12 +183,12 @@ enrollme.darpa.mil
 baat.darpa.mil
 sdrsbc.apps.darpa.mil
 vpn-22.darpa.mil
-extranet.darpa.mil
 extranet-ext.darpa.mil
 loginrecover.darpa.mil
 casadr-01.darpa.mil
 baa.darpa.mil
 sbirhle.darpa.mil
+extranet.darpa.mil
 dct.darpa.mil
 confluence.darpa.mil
 extranet-test.darpa.mil

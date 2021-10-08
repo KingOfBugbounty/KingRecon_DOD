@@ -31,8 +31,8 @@ office.staging.move.mil
 office.stg.move.mil
 office.move.mil
 my.stg.move.mil
-office.exp.move.mil
 my.move.mil
+office.exp.move.mil
 test.move.mil
 my.exp.move.mil
 my.staging.move.mil
@@ -47,6 +47,6 @@ api.move.mil
 atlantis.infrasec.move.mil
 admin.move.mil
 assets.devlocal.move.mil
-atlantis.exp.move.mil
 orders.move.mil
 office.demo.move.mil
+atlantis.exp.move.mil
