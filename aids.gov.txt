@@ -1,0 +1,14 @@
+autodiscover.aids.gov
+_dmarc.aids.gov
+blog.aids.gov
+facing.aids.gov
+hrct.aids.gov
+locator.aids.gov
+m.aids.gov
+providertools.aids.gov
+search.aids.gov
+www.aids.gov
+www.blog.aids.gov
+www.hrct.aids.gov
+www.locator.aids.gov
+autodiscover.aids.gov

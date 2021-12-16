@@ -1,0 +1,13 @@
+_dmarc.hiv.gov
+files.hiv.gov
+findservices.hiv.gov
+locator.hiv.gov
+positivespin.hiv.gov
+www.findservices.hiv.gov
+www.hiv.gov
+www.locator.hiv.gov
+www.positivespin.hiv.gov
+www.readysetprep.hiv.gov
+clinicalinfo.hiv.gov
+www.clinicalinfo.hiv.gov
+readysetprep.hiv.gov

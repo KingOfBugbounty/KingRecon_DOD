@@ -1,0 +1,8 @@
+_dmarc.womenshealth.gov
+dev.womenshealth.gov
+www.womenshealth.gov
+gateway.womenshealth.gov
+www.gateway.womenshealth.gov
+search.womenshealth.gov
+www.espanol.womenshealth.gov
+espanol.womenshealth.gov

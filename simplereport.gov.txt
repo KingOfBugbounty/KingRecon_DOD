@@ -1,0 +1,12 @@
+www.simplereport.gov
+api-test.simplereport.gov
+api-dev.simplereport.gov
+api-prod.simplereport.gov
+stg.simplereport.gov
+demo.simplereport.gov
+api-demo.simplereport.gov
+dev.simplereport.gov
+api-stg.simplereport.gov
+api-training.simplereport.gov
+test.simplereport.gov
+training.simplereport.gov
