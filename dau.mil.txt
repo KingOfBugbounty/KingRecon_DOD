@@ -1504,7 +1504,6 @@ m7h-225.dau.mil
 gcontrol.dau.mil
 ns2.dau.mil
 sd-20.dau.mil
-support.dau.mil
 net-147.dau.mil
 net-114.dau.mil
 net-117.dau.mil
@@ -1523,6 +1522,7 @@ net-216.dau.mil
 net-65.dau.mil
 net-253.dau.mil
 myclass.dau.mil
+support.dau.mil
 m7h-48.dau.mil
 m7h-175.dau.mil
 m7h-116.dau.mil
@@ -2337,7 +2337,6 @@ m2-129.dau.mil
 m2-125.dau.mil
 m2-156.dau.mil
 saar.dau.mil
-survey.dau.mil
 wdcgtm01.dau.mil
 transfer.dau.mil
 m1-160.dau.mil
@@ -2487,6 +2486,7 @@ m1c-28.dau.mil
 m2-112.dau.mil
 dy-21.dau.mil
 dart.dau.mil
+survey.dau.mil
 m6h-84.dau.mil
 m6h-104.dau.mil
 m6h-217.dau.mil
@@ -2643,8 +2643,8 @@ sisapp01dev.dits.dau.mil
 skypeaccess.dau.mil
 meet.dau.mil
 ns1.dau.mil
-wcf.dau.mil
 www1.dau.mil
+wcf.dau.mil
 m7h-207.dau.mil
 m7h-58.dau.mil
 m7h-192.dau.mil

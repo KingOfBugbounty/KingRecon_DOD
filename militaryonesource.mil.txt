@@ -44,9 +44,9 @@ myseco.pre.militaryonesource.mil
 statepolicy.militaryonesource.mil
 supportrequest.uat.militaryonesource.mil
 gcp.militaryonesource.mil
-gcn.militaryonesource.mil
 mx-sec.militaryonesource.mil
 cms-svc.militaryonesource.mil
+gcn.militaryonesource.mil
 www.militaryonesource.mil
 myseco.militaryonesource.mil
 auth.militaryonesource.mil
@@ -69,5 +69,5 @@ auth.uat.militaryonesource.mil
 sso.militaryonesource.mil
 msepjobs.militaryonesource.mil
 msepjobs.pre.militaryonesource.mil
-gc.militaryonesource.mil
 oem.gcc.militaryonesource.mil
+gc.militaryonesource.mil

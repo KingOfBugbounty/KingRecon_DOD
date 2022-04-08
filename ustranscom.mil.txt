@@ -1969,7 +1969,6 @@ www.trac2es.gslb.ustranscom.mil
 www.trac2es.ustranscom.mil
 www.uat.igc-dev1.ustranscom.mil
 www.uat.igc.ustranscom.mil
-www.ustranscom.mil
 www2.cpa.ustranscom.mil
 ymir.ustranscom.mil
 spider3.ustranscom.mil
@@ -2997,10 +2996,10 @@ ustcwsv131-3.ustranscom.mil
 ustcwsv132-199.ustranscom.mil
 ustcwsv140-204.ustranscom.mil
 www.bi.igc-dev1.ustranscom.mil
-public01.ustranscom.mil
 pryderi.ustranscom.mil
 remedyapps.ustranscom.mil
 scottnvcsc2-transcomb.ustranscom.mil
+public01.ustranscom.mil
 gdblvm31.maf.ustranscom.mil
 gdblvei21185.maf.ustranscom.mil
 gdrmvs23.maf.ustranscom.mil
@@ -3985,6 +3984,9 @@ testitsmsso.ustranscom.mil
 tbsmsdb01.ustranscom.mil
 tbsmsdb02-vip.ustranscom.mil
 remote.igc-dev.ustranscom.mil
+www.igc-dev1.ustranscom.mil
+www.igc-p.ustranscom.mil
+ctx.igc-test.ustranscom.mil
 boris01.ustranscom.mil
 cdsdev.ustranscom.mil
 dqrawdb01.ustranscom.mil
@@ -4454,9 +4456,6 @@ scvs11655.c2se.maf.ustranscom.mil
 testremedyweb01.ustranscom.mil
 tcblmr02.ustranscom.mil
 tcblpan51.ustranscom.mil
-www.igc-dev1.ustranscom.mil
-www.igc-p.ustranscom.mil
-ctx.igc-test.ustranscom.mil
 internalsa.ustranscom.mil
 ilogin01.ustranscom.mil
 gdblvr41.maf.ustranscom.mil
@@ -5471,6 +5470,7 @@ natasha04.ustranscom.mil
 www.m4.igc-p.ustranscom.mil
 www.bi.igc-test.ustranscom.mil
 ww202.ustranscom.mil
+www.ustranscom.mil
 030zm.ustranscom.mil
 intrawebdb.ustranscom.mil
 intrawebdb2.ustranscom.mil
@@ -5485,7 +5485,6 @@ gdblvei21182.maf.ustranscom.mil
 gdmcdmzvs11.c2oed.maf.ustranscom.mil
 gdsstraining.maf.ustranscom.mil
 harley.ustranscom.mil
-public02.ustranscom.mil
 remote.igc-test.ustranscom.mil
 webjalis02.ustranscom.mil
 ustcws149-208.ustranscom.mil
@@ -5970,6 +5969,7 @@ testitsmdb02.ustranscom.mil
 tcblrep01.ustranscom.mil
 bran.ustranscom.mil
 nemain.ustranscom.mil
+public02.ustranscom.mil
 blcamps.meis.maf.ustranscom.mil
 blsaw2.c2oe.maf.ustranscom.mil
 macd1.c2se.maf.ustranscom.mil

@@ -5,8 +5,8 @@ fast.stg.dodtechipedia.mil
 www-tmp.dodtechipedia.mil
 airpp.dodtechipedia.mil
 dev1.dodtechipedia.mil
-cmd-dodstg86.dodtechipedia.mil
 www1.dodtechipedia.mil
+cmd-dodstg86.dodtechipedia.mil
 dev2.dodtechipedia.mil
 dev-z.dodtechipedia.mil
 stg2.dodtechipedia.mil

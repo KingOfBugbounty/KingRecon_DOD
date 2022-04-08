@@ -11,6 +11,7 @@ www.dantes.doded.mil
 jst.ncdc.doded.mil
 sas.ncdc.doded.mil
 qa-sas.ncdc.doded.mil
+qa-jst.ncdc.doded.mil
 daimsws.doded.mil
 secure.doded.mil
 testsecure.doded.mil

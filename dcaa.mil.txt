@@ -21,8 +21,8 @@ mem2-dns.dcaa.mil
 gateway7.dcaa.mil
 mis.dcaa.mil
 test-dcma-ws.dcaa.mil
-mi.dcaa.mil
 csp.dcaa.mil
+mi.dcaa.mil
 fao.dcaa.mil
 mem1-dns.dcaa.mil
 wa.dcaa.mil

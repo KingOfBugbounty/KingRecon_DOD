@@ -3194,9 +3194,9 @@ host-155-19-104-236.rev.dodig.mil
 host-155-19-112-251.rev.dodig.mil
 host-155-19-113-57.rev.dodig.mil
 host-155-19-117-198.rev.dodig.mil
-dmen.dodig.mil
 wolf.dodig.mil
 www.dodig.mil
+dmen.dodig.mil
 host-155-19-104-246.rev.dodig.mil
 host-155-19-112-61.rev.dodig.mil
 host-155-19-117-151.rev.dodig.mil

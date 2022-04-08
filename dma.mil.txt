@@ -3921,10 +3921,10 @@ fggm-hq-vcse.dma.mil
 e-surveyuat.dma.mil
 regisuat.dma.mil
 n204009.dma.mil
-www.dinfos.dma.mil
-jiraservicedesk.dma.mil
 video.dma.mil
 static.dma.mil
+www.dinfos.dma.mil
+jiraservicedesk.dma.mil
 devpara.dma.mil
 newmcp.dma.mil
 hrmsdev.dma.mil
@@ -3933,13 +3933,13 @@ educlient.dinfos.dma.mil
 dmainfodev.dma.mil
 training.dma.mil
 transfer.dma.mil
+publicweb.dma.mil
 xchange.dma.mil
 sunbeam1.dma.mil
 sunbeam.dma.mil
 suntan.dma.mil
 regisdev.dma.mil
 regis.dma.mil
-publicweb.dma.mil
 login2.dma.mil
 loginuat.dma.mil
 logindev.dma.mil
@@ -3973,6 +3973,7 @@ varchiveuat.dma.mil
 transfer2.dma.mil
 phonedir.dma.mil
 planning2.dma.mil
+hrms2.dma.mil
 devitats.dma.mil
 lms.dvi.dma.mil
 itats.dma.mil
@@ -3983,7 +3984,6 @@ planning.dma.mil
 supply.dma.mil
 tracking.dma.mil
 trivor.dma.mil
-hrms2.dma.mil
 fast.dma.mil
 cloud.dma.mil
 irmhelp.dma.mil
@@ -4003,8 +4003,8 @@ rimo.dma.mil
 reportsdev.dma.mil
 rainier.dma.mil
 relocation.dma.mil
-servicedesk.dma.mil
 navcms.dma.mil
+servicedesk.dma.mil
 www.dma.mil
 intranetdev.dma.mil
 odeo2.dma.mil
@@ -4089,9 +4089,10 @@ blog.dma.mil
 devebirdpublish.dma.mil
 ebirdpublish.dma.mil
 dmasc4.dma.mil
+www.web.dma.mil
+inside.dma.mil
 www.publicweb.dma.mil
 pwservicedesk.dma.mil
-inside.dma.mil
 hrms.dma.mil
 igcm2.dma.mil
 hadar.dma.mil
@@ -4108,6 +4109,7 @@ qc.dma.mil
 varchive2.dma.mil
 odeouat.dma.mil
 phonedir2.dma.mil
+tasa.dma.mil
 gardenia.dma.mil
 dmainfo5.dma.mil
 e-survey2.dma.mil

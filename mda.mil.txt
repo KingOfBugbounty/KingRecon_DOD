@@ -843,7 +843,6 @@ vsso-cha40a.one.mda.mil
 vsso-cha41a.one.mda.mil
 vsso-cha42a.one.mda.mil
 vsso-ebs25a.one.mda.mil
-webapps.mda.mil
 www.arc.mda.mil
 yum-cos.mda.mil
 yum-hsv.mda.mil
@@ -870,6 +869,8 @@ dcpregistration.mda.mil
 webmail.mda.mil
 vpncos.mda.mil
 pride.mda.mil
+hsextweb1.mda.mil
+hsextweb.mda.mil
 blackfin.mda.mil
 bobj.mda.mil
 cosgpgateway.mda.mil
@@ -877,8 +878,6 @@ mkobpapps.mda.mil
 ns03.mda.mil
 vsce-uth40a.mda.mil
 gato1.mda.mil
-hsextweb1.mda.mil
-hsextweb.mda.mil
 gmdportal.mda.mil
 rmst.mda.mil
 tread.mda.mil
@@ -919,7 +918,6 @@ authmko.mda.mil
 csextweb2.mda.mil
 access.mda.mil
 transfer.mddc.mda.mil
-mwr.mda.mil
 esbie.mda.mil
 autodiscover.mda.mil
 careers.mda.mil
@@ -928,6 +926,7 @@ authex16h.mda.mil
 authmailhsv.mda.mil
 hsvgpgateway.mda.mil
 gosilent.mda.mil
+mwr.mda.mil
 mddcfs.mda.mil
 hsvgpportal.mda.mil
 dird.mda.mil
@@ -938,3 +937,4 @@ vnex-sce-uth02a.mda.mil
 vpnhsv.mda.mil
 repairdata.mda.mil
 pkh.mda.mil
+webapps.mda.mil

@@ -13,9 +13,9 @@ www.jcs.mil
 www.notams.jcs.mil
 jcisfacac.jcs.mil
 test-okc.daip.jcs.mil
+ws-okc.daip.jcs.mil
 demo.daip.jcs.mil
 jcisfa.jcs.mil
-ws-okc.daip.jcs.mil
 www-okc.daip.jcs.mil
 herndon.daip.jcs.mil
 notams.aim.jcs.mil

@@ -2105,9 +2105,11 @@ legacymail.pacom.mil
 www.pacom.mil
 ccpnexch.pacomccp.jtf.pacom.mil
 fw.j425.pacom.mil
+support-dev.pacom.mil
 vscan.eco.pacom.mil
 firewall.jtffa.pacom.mil
 webmail.pacom.mil
+support.pacom.mil
 nspaco01.pacomccp.jtf.pacom.mil
 rns3.pacom.mil
 econap1.eco.pacom.mil

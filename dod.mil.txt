@@ -271,6 +271,7 @@ ucolie78.nces.dod.mil
 ucolie88.nces.dod.mil
 ucolie81.nces.dod.mil
 www.dod.mil
+at.dod.mil
 ditpr.dod.mil
 ucoliee4a.nces.dod.mil
 ucolie26.nces.dod.mil
@@ -279,7 +280,6 @@ ucolie57.nces.dod.mil
 ucoliea1.nces.dod.mil
 ucolie92.nces.dod.mil
 sdc.dpas.dod.mil
-at.dod.mil
 host-140-185-71-2.rev.dod.mil
 host-140-185-71-6.rev.dod.mil
 app.dpas.dod.mil
@@ -300,7 +300,6 @@ ucolie76.nces.dod.mil
 ucolie41.nces.dod.mil
 ucoliea3.nces.dod.mil
 dibnet.dod.mil
-militaryblood.dod.mil
 ucoliee6a.nces.dod.mil
 ucolie44.nces.dod.mil
 ucoliea2.nces.dod.mil
@@ -308,14 +307,15 @@ ucolie59.nces.dod.mil
 host-140-185-71-7.rev.dod.mil
 dpris.dod.mil
 ditprtest.dod.mil
+militaryblood.dod.mil
 member.dpas.dod.mil
 apptest2.dpas.dod.mil
 ucolie24.nces.dod.mil
 ucolie47.nces.dod.mil
 ucolie71.nces.dod.mil
 ucolie58.nces.dod.mil
-www.defensetravel.dod.mil
 ctim.defensetravel.dod.mil
+www.defensetravel.dod.mil
 ucolie79.nces.dod.mil
 ucoliee5b.nces.dod.mil
 ucolie94.nces.dod.mil
@@ -356,8 +356,9 @@ ucoliea8.nces.dod.mil
 ucolie97.nces.dod.mil
 wt.dpas.dod.mil
 warehousetrain.dpas.dod.mil
-www.militaryblood.dod.mil
+ddass-training.dod.mil
 secure.defensetravel.dod.mil
+www.militaryblood.dod.mil
 ucolie36.nces.dod.mil
 ucolie46.nces.dod.mil
 ucolie50.nces.dod.mil

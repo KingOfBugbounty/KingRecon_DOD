@@ -1811,7 +1811,6 @@ host107-rob-rtr.eng.dren.mil
 dse2.dren.mil
 dse0.dren.mil
 dse3.dren.mil
-el.erdc.dren.mil
 fidelis-console.dren.mil
 portal.dren.mil
 sc-equinix-sjc.eng.dren.mil
@@ -1843,6 +1842,7 @@ gages.erdc.dren.mil
 ms-tmg2vks.erdc.dren.mil
 mfw.dren.mil
 sms.erdc.dren.mil
+el.erdc.dren.mil
 puppetmaster-west.dren.mil
 radius-west-lvl2.dren.mil
 host108-rob-rtr.eng.dren.mil
@@ -1876,6 +1876,13 @@ pdu-right0218-equinix-sjc.eng.dren.mil
 rfpwizard.sms.erdc.dren.mil
 mbps.erdc.dren.mil
 erdc.dren.mil
+www.rdte.afrl.dren.mil
+host116-rob-rtr.eng.dren.mil
+host114-rob-rtr.eng.dren.mil
+dse8.dren.mil
+insideerdc.erdc.dren.mil
+webvpn-te-apg.dren.mil
+webvpn-te-wpafb.dren.mil
 budm.el.erdc.dren.mil
 bsafdev.el.erdc.dren.mil
 aqua.el.erdc.dren.mil
@@ -1904,13 +1911,6 @@ tethys.ers.erdc.dren.mil
 tescostcmm.el.erdc.dren.mil
 sw-ds-b1rb249-sandiego.mgmt.dren.mil
 toks.erdc.dren.mil
-www.rdte.afrl.dren.mil
-host116-rob-rtr.eng.dren.mil
-host114-rob-rtr.eng.dren.mil
-dse8.dren.mil
-insideerdc.erdc.dren.mil
-webvpn-te-apg.dren.mil
-webvpn-te-wpafb.dren.mil
 dsw2.dren.mil
 dsw1.dren.mil
 expressway-west3.vtc.dren.mil

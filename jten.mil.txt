@@ -87,12 +87,12 @@ jtenfwpat.jten.mil
 jttexer02.jten.mil
 jttexer.stage.jten.mil
 sso.jten.mil
+www.jten.mil
 jkosupportqa.jten.mil
 jkosupport.jten.mil
 jko.jten.mil
 jtimsexer4.jten.mil
 jtt-sso.jten.mil
-www.jten.mil
 jkodirectqa.jten.mil
 jtims-stage.jten.mil
 jtimsexer5.jten.mil

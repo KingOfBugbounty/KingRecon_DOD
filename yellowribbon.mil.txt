@@ -19,7 +19,7 @@ cac.yellowribbon.mil
 cactest.yellowribbon.mil
 cacstage.yellowribbon.mil
 tvpo.lms.stage.yellowribbon.mil
-portal.lms.yellowribbon.mil
-www.yellowribbon.mil
 lms.yellowribbon.mil
+www.yellowribbon.mil
+portal.lms.yellowribbon.mil
 portal.lms.stage.yellowribbon.mil

@@ -2352,6 +2352,7 @@ library.whs.mil
 itmd.whs.mil
 xd.whs.mil
 mnm-defimnet.whs.mil
+whseforum.whs.mil
 bb0606.whs.mil
 host-214-14-122-71.rev.whs.mil
 host-214-14-175-84.rev.whs.mil
@@ -2786,7 +2787,6 @@ host-140-185-204-218.rev.whs.mil
 host-140-185-95-52.rev.whs.mil
 host-140-185-204-73.rev.whs.mil
 ddsmttayz094.cd.whs.mil
-whseforum.whs.mil
 eopgrbweb1.whs.mil
 host-65-73.rev.whs.mil
 host-65-140.rev.whs.mil
@@ -3742,10 +3742,11 @@ test.whs.mil
 msa-003-defimnet.whs.mil
 msa-001-defimnet.whs.mil
 msa-004-defimnet.whs.mil
-mtbp.whs.mil
 refapps.ref.whs.mil
 quicx.whs.mil
 www.bfd.whs.mil
+www.mtbp.whs.mil
+mtbp.whs.mil
 intranet.whs.mil
 infosec.whs.mil
 ocsp.whs.mil
@@ -4730,7 +4731,6 @@ caf2.psd.whs.mil
 bogusarmscamodern.whs.mil
 elektra.psd.whs.mil
 www.dacipad.whs.mil
-pac.whs.mil
 pdfdmz1.psd.whs.mil
 phoenix.psd.whs.mil
 host-130-16-52-87.rev.whs.mil
@@ -5199,6 +5199,7 @@ sidccstracker.whs.mil
 yakko.whs.mil
 storm.psd.whs.mil
 remedy.whs.mil
+pac.whs.mil
 host-65-226.rev.whs.mil
 host-65-229.rev.whs.mil
 host-65-199.rev.whs.mil

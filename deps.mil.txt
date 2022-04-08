@@ -27,9 +27,9 @@ wac-pp.deps.mil
 dtic.deps.mil
 afsmartpreprod2010.deps.mil
 mda.deps.mil
+whs.deps.mil
 as1.deps.mil
 dfas.deps.mil
-whs.deps.mil
 efs-east.deps.mil
 wac-cols.deps.mil
 my-preprod.army.deps.mil

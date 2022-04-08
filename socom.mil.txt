@@ -131136,6 +131136,8 @@ tacexch.st10.socom.mil
 tdcdlndc1.27sowdeployed.socom.mil
 tmos-241.socom.mil
 proxy1.socom.mil
+mailgateway11.socom.mil
+mailgateway10.socom.mil
 bmsvideoserver2.socom.mil
 apps1.socom.mil
 dc2.sotf-clnc.socom.mil
@@ -131145,7 +131147,6 @@ owa-sp.socom.mil
 ksslwa01.dms.socom.mil
 webapps.sof.socom.mil
 proxy9.socom.mil
-fs.socom.mil
 n001-webproxy.socom.mil
 sof2.apps.socom.mil
 soccent.sof.socom.mil
@@ -131156,8 +131157,7 @@ trngfilo01.taclan.socom.mil
 tacdc.socsodep.socom.mil
 tacdc2.tac27n.socom.mil
 tacexch.tac107n.socom.mil
-mailgateway11.socom.mil
-mailgateway10.socom.mil
+fs.socom.mil
 adss.socom.mil
 blacktdc.16sow4b.deployed.socom.mil
 cwf.socom.mil
@@ -131243,7 +131243,6 @@ tacexch.tac39n.socom.mil
 turn.uc.socom.mil
 credc1.soccre.socom.mil
 fyslwa21.dms.socom.mil
-www.fs.socom.mil
 pac-rec2.socom.mil
 mct69exch.st7.socom.mil
 o365.socom.mil
@@ -131270,6 +131269,7 @@ proxy015-3.socom.mil
 proxy12.socom.mil
 proxy13.socom.mil
 proxy001-1.socom.mil
+www.fs.socom.mil
 afsoc.sof.socom.mil
 flex2.socom.mil
 test.fleetfocus.socom.mil
@@ -131302,9 +131302,9 @@ tdcdlndc2.27sowdeployed.socom.mil
 tdcdlndc1.786n.socom.mil
 lms.sof.socom.mil
 jdins02.jdi.socom.mil
-certauth.fs.socom.mil
 contractreport.socom.mil
 appstage.socom.mil
+certauth.fs.socom.mil
 socomvcse.socom.mil
 sof.nsw.socom.mil
 tacexch.95cab.socom.mil
@@ -131332,6 +131332,7 @@ webapps.socom.mil
 tpa-rec1.socom.mil
 sdnm373.socom.mil
 proxy5.socom.mil
+www.socjc.socom.mil
 tmos-306.socom.mil
 sof.socom.mil
 tacexch.st3.socom.mil
@@ -131341,7 +131342,6 @@ swalisportal.socom.mil
 tdcdlndc2.788n.socom.mil
 tdcldndc2.ice790n.socom.mil
 sts.vb.socom.mil
-www.socjc.socom.mil
 apps2coop.socom.mil
 apps2.socom.mil
 creml1.soccre.socom.mil

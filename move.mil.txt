@@ -31,14 +31,16 @@ office.staging.move.mil
 office.stg.move.mil
 office.move.mil
 my.stg.move.mil
-my.move.mil
 office.exp.move.mil
+my.move.mil
 test.move.mil
 my.exp.move.mil
 my.staging.move.mil
 engadmin.stg.move.mil
 admin.exp.move.mil
+redirect-test.move.mil
 admin.stg.move.mil
+my.prd.move.mil
 engadmin.prd.move.mil
 gex.move.mil
 engadmin.exp.move.mil

@@ -61159,7 +61159,7 @@ generic-14-200.bulkhost.africom.mil
 generic-140-185.bulkhost.africom.mil
 generic-215-67-152-145.bulkhost.africom.mil
 generic-215-67-222-105.bulkhost.africom.mil
-hoa.africom.mil
+preview.africom.mil
 generic-127-237.bulkhost.africom.mil
 generic-198-80.bulkhost.africom.mil
 generic-215-67-221-108.bulkhost.africom.mil
@@ -61387,6 +61387,7 @@ generic-215-67-155-127.bulkhost.africom.mil
 generic-215-67-228-129.bulkhost.africom.mil
 generic-251-185.bulkhost.africom.mil
 www.africom.mil
+hoa.africom.mil
 generic-215-67-223-71.bulkhost.africom.mil
 generic-215-67-229-239.bulkhost.africom.mil
 generic-218-89.bulkhost.africom.mil
@@ -61614,6 +61615,7 @@ generic-230-84.bulkhost.africom.mil
 generic-236-125.bulkhost.africom.mil
 generic-30-89.bulkhost.africom.mil
 generic-36-149.bulkhost.africom.mil
+www.preview.hoa.africom.mil
 c-owa.africom.mil
 generic-178-193.bulkhost.africom.mil
 generic-197-86.bulkhost.africom.mil
@@ -63394,6 +63396,8 @@ generic-219-136.bulkhost.africom.mil
 generic-241-194.bulkhost.africom.mil
 generic-255-3.bulkhost.africom.mil
 generic-42-4.bulkhost.africom.mil
+preview.hoa.africom.mil
+www.preview.africom.mil
 generic-101-140.bulkhost.africom.mil
 generic-111-109.bulkhost.africom.mil
 generic-13-116.bulkhost.africom.mil

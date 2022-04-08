@@ -13,15 +13,15 @@ www.storefront.dc3.mil
 sf.dc3.mil
 learnstorm.dc3.mil
 mail.dc3.mil
-customerportal.dc3.mil
 snowgoose.dc3.mil
 support.dc3.mil
+customerportal.dc3.mil
 seabee.dc3.mil
 dad.dc3.mil
 storm.dc3.mil
 seahawk.dc3.mil
-appupdates.dc3.mil
 api.dc3.mil
+appupdates.dc3.mil
 www.dc3.mil
 ns2.dc3.mil
 outbound.dc3.mil
@@ -30,3 +30,4 @@ ns3.dc3.mil
 misp.dc3.mil
 grok.dc3.mil
 dcise-jira.dc3.mil
+www.customerportal.dc3.mil
