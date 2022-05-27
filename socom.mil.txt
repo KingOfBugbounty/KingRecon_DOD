@@ -131285,6 +131285,7 @@ tacexch.tac27n.socom.mil
 tacfilo.1esog.socom.mil
 tacfilo.st5trng.socom.mil
 socomsftp.socom.mil
+ws1mdm.socom.mil
 webmail.socom.mil
 pac-rec1.socom.mil
 rvrbed-bsh1.socom.mil
@@ -131323,7 +131324,6 @@ cac.socom.mil
 193cs-dc2.193cs.deployed.socom.mil
 galaxy.vb.socom.mil
 coopsof.socom.mil
-www.socom.mil
 eur-rec2.socom.mil
 filo.sotf-clnc.socom.mil
 fasuite.socom.mil
@@ -131342,6 +131342,7 @@ swalisportal.socom.mil
 tdcdlndc2.788n.socom.mil
 tdcldndc2.ice790n.socom.mil
 sts.vb.socom.mil
+www.socom.mil
 apps2coop.socom.mil
 apps2.socom.mil
 creml1.soccre.socom.mil

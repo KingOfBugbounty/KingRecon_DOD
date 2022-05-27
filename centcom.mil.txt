@@ -1539,7 +1539,6 @@ cig.centcom.mil
 cfnxdns05.centcom.mil
 webmail.omcku.centcom.mil
 seenet.centcom.mil
-www6.centcom.mil
 swa-23143.rvsresolver.centcom.mil
 swa-7382.rvsresolver.centcom.mil
 swa-23239.rvsresolver.centcom.mil
@@ -1619,6 +1618,7 @@ swa-3297.rvsresolver.centcom.mil
 swa-73132.rvsresolver.centcom.mil
 swa-73240.rvsresolver.centcom.mil
 swa-73129.rvsresolver.centcom.mil
+www6.centcom.mil
 2142677245.centcom.mil
 fsnvzr12.centcom.mil
 cfh-fw02-n.centcom.mil

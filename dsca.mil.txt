@@ -20,7 +20,6 @@ dmrs.sces.dsca.mil
 dmrssit.sces.dsca.mil
 doud.sces.dsca.mil
 dpc-46-9.dpc-classroomt-26-44.rev.dsca.mil
-dsams.dsca.mil
 dsca-u-exchange.dsca.mil
 dsca-vpn-55-150.rev.dsca.mil
 erpconv.sces.dsca.mil
@@ -550,10 +549,11 @@ hap-221-16.rev.dsca.mil
 sftp.dsadc.dsca.mil
 lprgnra1.dsca.mil
 dr.dsca.mil
-www.rcpams.dsca.mil
+www.dsca.mil
 san.dsca.mil
 ps-tms.san.dsca.mil
-www.dsca.mil
+dsams.uat.dsca.mil
+www.rcpams.dsca.mil
 snoopy.dsca.mil
 fmfimet.dsca.mil
 hap-221-19.rev.dsca.mil
@@ -610,6 +610,7 @@ dsca-vpn-55-194.rev.dsca.mil
 dscaudhcp.dsca.mil
 dsca-vpn-55-245.rev.dsca.mil
 auth.scip.dsca.mil
+www.socium.uat.dsca.mil
 host-140-185-23-116.rev.dsca.mil
 host-140-185-23-93.rev.dsca.mil
 host-140-185-23-67.rev.dsca.mil
@@ -661,6 +662,7 @@ bkupddsmttayz089.dsca.mil
 adm-rdp-gw1.cloud.dsca.mil
 pws-dev.dsca.mil
 scip.dsca.mil
+dsams.dsca.mil
 horse.dsca.mil
 hap-221-5.rev.dsca.mil
 hap-221-17.rev.dsca.mil
@@ -716,6 +718,7 @@ host-140-185-23-88.rev.dsca.mil
 host-140-185-23-77.rev.dsca.mil
 fmfimet.qa.dsca.mil
 sc-ppbe-uat.dsca.mil
+www.arcgis.apps.dsca.mil
 sc-ppbe2.dsca.mil
 test.scip.dsca.mil
 dsca-vpn-55-167.rev.dsca.mil
@@ -774,6 +777,7 @@ host-26-86.rev.dsca.mil
 host-26-112.rev.dsca.mil
 host-26-183.rev.dsca.mil
 host-27-37.rev.dsca.mil
+arcgis.apps.dsca.mil
 www.discs.dsca.mil
 wg.sces.dsca.mil
 test1.dsadc.dsca.mil
@@ -831,6 +835,7 @@ hap-221-6.rev.dsca.mil
 hap-221-1.rev.dsca.mil
 eblade.runner.dsca.mil
 rcpams.dsca.mil
+socium.uat.dsca.mil
 metamessage.dsca.mil
 host-27-53.rev.dsca.mil
 host-27-100.rev.dsca.mil
@@ -919,3 +924,4 @@ pws-qa.dsca.mil
 idsints2.dsca.mil
 hap-221-24.rev.dsca.mil
 disca2d1014pdapp1.dsca.mil
+dsams.qa.dsca.mil

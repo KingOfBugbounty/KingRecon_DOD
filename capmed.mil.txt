@@ -12,5 +12,5 @@ apps3.capmed.mil
 www.capmed.mil
 jpims.jpc.capmed.mil
 wwcc.capmed.mil
-jpc.capmed.mil
 www.dthc.capmed.mil
+jpc.capmed.mil

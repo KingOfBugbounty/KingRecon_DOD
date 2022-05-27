@@ -282,7 +282,6 @@ fin-ss71z20.dfas.mil
 spsbmmp.dfas.mil
 www-rdr1.dfas.mil
 fin-ss20z1.dfas.mil
-drmypay.dfas.mil
 dfasportal.dfas.mil
 dwows-coop.dfas.mil
 fcoedm19.dfas.mil
@@ -297,8 +296,9 @@ dns24b-ext.dfas.mil
 1ddmail4.dfas.mil
 bam-prod-03.dfas.mil
 bam-prod-16.dfas.mil
-mypay.dfas.mil
 www.dfas.mil
+mypay.dfas.mil
+drmypay.dfas.mil
 ods-sat.dfas.mil
 odscps-v.dfas.mil
 sta1.dfas.mil

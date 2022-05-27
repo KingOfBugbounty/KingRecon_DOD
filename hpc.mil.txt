@@ -4693,6 +4693,7 @@ portal.create.hpc.mil
 portal-repo.create.hpc.mil
 www.wiki-sandbox.lift.mhpcc.hpc.mil
 wiki-sandbox.lift.mhpcc.hpc.mil
+sq.lift.mhpcc.hpc.mil
 2007i-m.arl.hpc.mil
 host180.ngnn.hpc.mil
 host181.ngnn.hpc.mil
@@ -5841,10 +5842,10 @@ montoya.navo.hpc.mil
 mil-navmr2.fedsun.hpc.mil
 mcat51vip.mhpcc.hpc.mil
 ns2.afrl.hpc.mil
-hpcrestricted.hpc.mil
 portalwww.navydsrc.hpc.mil
 centerswww.afrl.hpc.mil
 precenters.navydsrc.hpc.mil
+hpcrestricted.hpc.mil
 portal.lift.mhpcc.hpc.mil
 yildun.erdc.hwss.hpc.mil
 yubi.blueprint.hpcmp.hpc.mil
@@ -7432,7 +7433,6 @@ berkshire.navydsrc.hpc.mil
 bdmsprod.pica.hpc.mil
 amos-cr-mssc2-msss.mhpcc.hpc.mil
 andromeda.erdci.hwss.hpc.mil
-www.hpc.mil
 kaiina.ds.mhpcc.hpc.mil
 lethe.hpcmp.hpc.mil
 libra.erdcd.hwss.hpc.mil
@@ -7827,6 +7827,7 @@ dren-dirsrv2.afwa.hpc.mil
 dren-ws2.afwa.hpc.mil
 cherry.ds.mhpcc.hpc.mil
 director.mhpcc.hpc.mil
+www.hpc.mil
 www.ors.hpc.mil
 openvpn-140-32-249-41.hpcmo.hpc.mil
 openvpn-140-32-249-154.hpcmo.hpc.mil
@@ -9995,7 +9996,7 @@ host191.crtc.hpc.mil
 host19.ngnn.hpc.mil
 host191.ngnn.hpc.mil
 host203.tardec-scn.hpc.mil
-host209.crtc.hpc.mil
+host208.ngnn.hpc.mil
 host21.hbfcs.hpc.mil
 host213-1-52-149.btremoteinternet-scn.hpc.mil
 host217.tardec-scn.hpc.mil
@@ -13445,6 +13446,7 @@ portal.create.hpc.mil
 portal-repo.create.hpc.mil
 www.wiki-sandbox.lift.mhpcc.hpc.mil
 wiki-sandbox.lift.mhpcc.hpc.mil
+sq.lift.mhpcc.hpc.mil
 2007i-m.arl.hpc.mil
 host180.ngnn.hpc.mil
 host181.ngnn.hpc.mil
@@ -14593,10 +14595,10 @@ montoya.navo.hpc.mil
 mil-navmr2.fedsun.hpc.mil
 mcat51vip.mhpcc.hpc.mil
 ns2.afrl.hpc.mil
-hpcrestricted.hpc.mil
 portalwww.navydsrc.hpc.mil
 centerswww.afrl.hpc.mil
 precenters.navydsrc.hpc.mil
+hpcrestricted.hpc.mil
 portal.lift.mhpcc.hpc.mil
 yildun.erdc.hwss.hpc.mil
 yubi.blueprint.hpcmp.hpc.mil
@@ -16184,7 +16186,6 @@ berkshire.navydsrc.hpc.mil
 bdmsprod.pica.hpc.mil
 amos-cr-mssc2-msss.mhpcc.hpc.mil
 andromeda.erdci.hwss.hpc.mil
-www.hpc.mil
 kaiina.ds.mhpcc.hpc.mil
 lethe.hpcmp.hpc.mil
 libra.erdcd.hwss.hpc.mil
@@ -16579,6 +16580,7 @@ dren-dirsrv2.afwa.hpc.mil
 dren-ws2.afwa.hpc.mil
 cherry.ds.mhpcc.hpc.mil
 director.mhpcc.hpc.mil
+www.hpc.mil
 www.ors.hpc.mil
 openvpn-140-32-249-41.hpcmo.hpc.mil
 openvpn-140-32-249-154.hpcmo.hpc.mil
@@ -18957,3 +18959,4 @@ arlwww.navydsrc.hpc.mil
 svn2.create.hpc.mil
 www.embr.lift.mhpcc.hpc.mil
 jenkins.lift.mhpcc.hpc.mil
+ftn-csoc.usafa.hpc.mil

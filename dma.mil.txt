@@ -3921,10 +3921,10 @@ fggm-hq-vcse.dma.mil
 e-surveyuat.dma.mil
 regisuat.dma.mil
 n204009.dma.mil
-video.dma.mil
-static.dma.mil
-www.dinfos.dma.mil
 jiraservicedesk.dma.mil
+video.dma.mil
+www.dinfos.dma.mil
+static.dma.mil
 devpara.dma.mil
 newmcp.dma.mil
 hrmsdev.dma.mil
@@ -3991,8 +3991,8 @@ pbtsuat.dma.mil
 sirius.dma.mil
 usaf-origin.dma.mil
 tracking2.dma.mil
-media.dma.mil
 dvisc.dma.mil
+media.dma.mil
 bracitcall.dma.mil
 budgetdev.dma.mil
 intranetuat.dma.mil
@@ -4090,9 +4090,10 @@ devebirdpublish.dma.mil
 ebirdpublish.dma.mil
 dmasc4.dma.mil
 www.web.dma.mil
-inside.dma.mil
-www.publicweb.dma.mil
+briefingbook.dma.mil
 pwservicedesk.dma.mil
+www.publicweb.dma.mil
+inside.dma.mil
 hrms.dma.mil
 igcm2.dma.mil
 hadar.dma.mil

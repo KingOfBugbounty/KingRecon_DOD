@@ -61386,8 +61386,8 @@ generic-114-104.bulkhost.africom.mil
 generic-215-67-155-127.bulkhost.africom.mil
 generic-215-67-228-129.bulkhost.africom.mil
 generic-251-185.bulkhost.africom.mil
-www.africom.mil
 hoa.africom.mil
+www.africom.mil
 generic-215-67-223-71.bulkhost.africom.mil
 generic-215-67-229-239.bulkhost.africom.mil
 generic-218-89.bulkhost.africom.mil

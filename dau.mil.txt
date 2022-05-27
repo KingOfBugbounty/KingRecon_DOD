@@ -2336,7 +2336,6 @@ m2-124.dau.mil
 m2-129.dau.mil
 m2-125.dau.mil
 m2-156.dau.mil
-saar.dau.mil
 wdcgtm01.dau.mil
 transfer.dau.mil
 m1-160.dau.mil
@@ -2487,6 +2486,7 @@ m2-112.dau.mil
 dy-21.dau.mil
 dart.dau.mil
 survey.dau.mil
+saar.dau.mil
 m6h-84.dau.mil
 m6h-104.dau.mil
 m6h-217.dau.mil

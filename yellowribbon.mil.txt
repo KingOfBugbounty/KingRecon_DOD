@@ -12,8 +12,8 @@ stage.lms.yellowribbon.mil
 lms.stage.yellowribbon.mil
 lms.test.yellowribbon.mil
 esgr.lms.test.yellowribbon.mil
-portal.lms.test.yellowribbon.mil
 esgr.lms.yellowribbon.mil
+portal.lms.test.yellowribbon.mil
 test.yellowribbon.mil
 cac.yellowribbon.mil
 cactest.yellowribbon.mil

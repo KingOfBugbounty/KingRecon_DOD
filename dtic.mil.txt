@@ -19520,6 +19520,7 @@ dmdc-tc.dtic.mil.dtic.mil
 dtic-stinet-dev.dtic.mil
 esgr-dev.dtic.mil
 doac-dev1.dtic.mil
+www.discover.dtic.mil
 pdbrsgorac-scan.dtic.mil
 hrm-stg.dtic.mil
 jb-cbat-stg.dtic.mil

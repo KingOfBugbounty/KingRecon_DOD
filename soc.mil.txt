@@ -115,7 +115,6 @@ asoc6.soc.mil
 asoc35.soc.mil
 asoc20.soc.mil
 sierra124.soc.mil
-www.soc.mil
 vtc61.soc.mil
 p102.soc.mil
 p101.soc.mil
@@ -127,6 +126,7 @@ asoc16.soc.mil
 asoc17.soc.mil
 asoc200.soc.mil
 ayhctl02.soc.mil
+www.soc.mil
 soec.recruiting.soc.mil
 sentry.miron.soc.mil
 rms.recruiting.soc.mil

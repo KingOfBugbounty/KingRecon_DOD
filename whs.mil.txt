@@ -2345,13 +2345,13 @@ dra.whs.mil
 e562.whs.mil
 fmdco.whs.mil
 bb0606r.whs.mil
-pal.whs.mil
 pkisupport.whs.mil
 pki.fepaas.whs.mil
 library.whs.mil
 itmd.whs.mil
 xd.whs.mil
 mnm-defimnet.whs.mil
+pal.whs.mil
 whseforum.whs.mil
 bb0606.whs.mil
 host-214-14-122-71.rev.whs.mil

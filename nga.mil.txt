@@ -338,8 +338,6 @@ map1-app02.ozone.nga.mil
 map2-app02.ozone.nga.mil
 map3-app02.ozone.nga.mil
 map4-app02.ozone.nga.mil
-maps.geo.nga.mil
-maps.geoint.nga.mil
 maps.geointel.nga.mil
 maps.nga.mil
 maps0.gvs.nga.mil
@@ -590,7 +588,6 @@ gdn2.geoint.nga.mil
 giatstlhermes01.nga.mil
 ghub.geoint.nga.mil
 cgsweb-image1.nga.mil
-cdn.nga.mil
 console.ion.nga.mil
 efd01.nga.mil
 fgmod.nga.mil
@@ -626,8 +623,9 @@ login.system.dev.east.paas.nga.mil
 system.dev.east.paas.nga.mil
 test.east.paas.nga.mil
 apps-k.nga.mil
-maritime.nga.mil
-test.nga.mil
+cdn.nga.mil
+svc.east.nga.mil
+msi-stage.nga.mil
 gwf-ndw-web4.nga.mil
 gwf-ndw-web1.nga.mil
 giatstlowt01.nga.mil
@@ -655,7 +653,6 @@ ndwdsngwlvweb04.geointel.nga.mil
 ndwdsngwwvego02.geo.nga.mil
 ndwdsegdlvpgs02.nga.mil
 maps-w.geo.nga.mil
-oauth.geoaxis.nga.mil
 pki-www1.geointel.nga.mil
 nowwest.nga.mil
 notices.maritime.nga.mil
@@ -675,9 +672,6 @@ aerodata.geo.nga.mil
 app04-alpha.ozone.nga.mil
 testwarpdata2.nga.mil
 tstgw.psft.nga.mil
-osrm.nga.mil
-tile.geoint.nga.mil
-usms.nga.mil
 www2.geointel.nga.mil
 rtm32-nce-web2.nga.mil
 rtm32-demo-web2.nga.mil
@@ -688,6 +682,13 @@ windev13.ozone.nga.mil
 warpdata9.nga.mil
 project.nga.mil
 ece.dev.east.paas.nga.mil
+svc.west.nga.mil
+oauth.geoaxis.nga.mil
+test.nga.mil
+maritime.nga.mil
+usms.nga.mil
+osrm.nga.mil
+tile.geoint.nga.mil
 apps-x.nga.mil
 learn.nga.mil
 ngds-lite.nga.mil
@@ -733,6 +734,7 @@ uaa.system.west.paas.nga.mil
 uaa.system.dev.east.paas.nga.mil
 enom.nga.mil
 lewis.nga.mil
+pxy.west.nga.mil
 rams03.nga.mil
 devopsctx.nga.mil
 dnc.geo.nga.mil
@@ -777,12 +779,13 @@ stuart.nga.mil
 translation.test.maritime.nga.mil
 relay8.nga.mil
 wwwego-w.geo.nga.mil
-hostedservices.geo.nga.mil
 pcf-router.paas.nga.mil
 system.east.paas.nga.mil
 globe.nga.mil
 apps.nga.mil
 apps-igapp.nga.mil
+hostedservices.geo.nga.mil
+gxisovd-west.nga.mil
 www7.geointel.nga.mil
 gxisaccess-east.nga.mil
 east.paas.nga.mil
@@ -834,6 +837,7 @@ transition-mow.gvs.nga.mil
 data.nga.mil
 apps-stage.nga.mil
 gvs.nga.mil
+dnc-esn.nga.mil
 dsp.nga.mil
 dsp.geo.nga.mil
 dss.nga.mil
@@ -877,8 +881,8 @@ uatteams.nga.mil
 websvcs-e.geo.nga.mil
 windev10.ozone.nga.mil
 west.paas.nga.mil
-tile.geo.nga.mil
 webanalytics.dev.nga.mil
+tile.geo.nga.mil
 arnnsahslpdns1.nga.mil
 dload-e.geo.nga.mil
 db-alpha.ozone.nga.mil
@@ -924,7 +928,7 @@ int.east.paas.nga.mil
 stage.west.paas.nga.mil
 workspaces.xc.nga.mil
 webanalytics.nga.mil
-info.nga.mil
+oud.east.nga.mil
 csidm.geoint.nga.mil
 dvof-e.geoint.nga.mil
 datacorps.dev.nga.mil
@@ -958,9 +962,11 @@ ndwdsngwlvgeo02.geo.nga.mil
 ndwdsngwlvjwb02.geo.nga.mil
 ndwusngwsvweb01.nga.mil
 a2.devops.nga.mil
-gxisapi.nga.mil
 appstore.nga.mil
-oidc.geoaxis.nga.mil
+oud.west.nga.mil
+gxisapi.nga.mil
+gxisssg-west.nga.mil
+info.nga.mil
 app03-alpha.ozone.nga.mil
 api-test.ods.nga.mil
 nceunwg1b.nga.mil
@@ -1004,6 +1010,10 @@ home.nga.mil
 time.nga.mil
 globe-api.nga.mil
 gasmetrics.nga.mil
+access.geoaxis.nga.mil
+services.geoaxis.nga.mil
+oidc.geoaxis.nga.mil
+msi-esn.nga.mil
 msi.nga.mil
 pki-policy2.geointel.nga.mil
 pki-policy1.geointel.nga.mil
@@ -1051,6 +1061,7 @@ warpdata1.nga.mil
 testgdsustil.nga.mil
 relay.nga.mil
 map.nga.mil
+bfe.test.xc.nga.mil
 ingestpipeline.nga.mil
 icomplaints.nga.mil
 foundation.nga.mil
@@ -1091,7 +1102,6 @@ concourse.east.paas.nga.mil
 dbgia.geointel.nga.mil
 db-beta.ozone.nga.mil
 datahost.nga.mil
-dnc.nga.mil
 stggw.psft.nga.mil
 transition-home.gvs.nga.mil
 surveytst.nga.mil
@@ -1099,7 +1109,9 @@ ece.east.paas.nga.mil
 login.system.west.paas.nga.mil
 ods.east.paas.nga.mil
 system.west.paas.nga.mil
+dnc.nga.mil
 ngasurvey.nga.mil
+maps.geoint.nga.mil
 windev05.ozone.nga.mil
 windev09.ozone.nga.mil
 policy1.geointel.nga.mil
@@ -1142,8 +1154,8 @@ gwf-ndw-bg.nga.mil
 gsrp.nga.mil
 mission-data0.gvs.nga.mil
 stage.east.paas.nga.mil
-portal.geo.nga.mil
 foia.nga.mil
+portal.geo.nga.mil
 www-e.geo.nga.mil
 windev02.ozone.nga.mil
 www7.geoint.nga.mil
@@ -1191,10 +1203,10 @@ gis1.geointel.nga.mil
 csidm.geointel.nga.mil
 uaa.system.east.paas.nga.mil
 dev.east.paas.nga.mil
-www.nga.mil
 datacorps.bfe.test.xc.nga.mil
 matomo.east.paas.nga.mil
 grid.nga.mil
+www.nga.mil
 ftp-e.geo.nga.mil
 dvof-w.geointel.nga.mil
 gdc.nga.mil
@@ -1243,6 +1255,8 @@ test-alpha.ozone.nga.mil
 warpdata6.nga.mil
 warpdata2.nga.mil
 earth-info.nga.mil
+gxisssg-east.nga.mil
+dnc-stage.nga.mil
 dnu.nga.mil
 geonames.test.nga.mil
 gwf-ndw.nga.mil
@@ -1291,7 +1305,11 @@ mydesktoptest-ica.nga.mil
 netscout.nga.mil
 pki-www2.geoint.nga.mil
 oldwww.nga.mil
-gxisaccess.nga.mil
-geoaxis.nga.mil
 ops.east.paas.nga.mil
 gpm.nga.mil
+maps.geo.nga.mil
+gxisovd-east.nga.mil
+gxisaccess.nga.mil
+pxy.east.nga.mil
+geoaxis.nga.mil
+gxis.geoaxis.nga.mil

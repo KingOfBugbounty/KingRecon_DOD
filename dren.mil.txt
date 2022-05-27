@@ -1841,8 +1841,8 @@ gridace.rsgis.erdc.dren.mil
 gages.erdc.dren.mil
 ms-tmg2vks.erdc.dren.mil
 mfw.dren.mil
-sms.erdc.dren.mil
 el.erdc.dren.mil
+sms.erdc.dren.mil
 puppetmaster-west.dren.mil
 radius-west-lvl2.dren.mil
 host108-rob-rtr.eng.dren.mil
@@ -1876,6 +1876,7 @@ pdu-right0218-equinix-sjc.eng.dren.mil
 rfpwizard.sms.erdc.dren.mil
 mbps.erdc.dren.mil
 erdc.dren.mil
+certauth.mbps-causex-sso.erdc.dren.mil
 www.rdte.afrl.dren.mil
 host116-rob-rtr.eng.dren.mil
 host114-rob-rtr.eng.dren.mil
@@ -1911,6 +1912,7 @@ tethys.ers.erdc.dren.mil
 tescostcmm.el.erdc.dren.mil
 sw-ds-b1rb249-sandiego.mgmt.dren.mil
 toks.erdc.dren.mil
+mbps-causex-sso.erdc.dren.mil
 dsw2.dren.mil
 dsw1.dren.mil
 expressway-west3.vtc.dren.mil
