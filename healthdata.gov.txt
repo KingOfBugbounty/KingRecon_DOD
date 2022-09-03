@@ -1,6 +1,0 @@
-_dmarc.healthdata.gov
-ddod.healthdata.gov
-hub.healthdata.gov
-legacy.healthdata.gov
-www.healthdata.gov
-beta.healthdata.gov

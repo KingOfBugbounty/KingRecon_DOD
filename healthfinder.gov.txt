@@ -1,7 +1,0 @@
-_dmarc.healthfinder.gov
-beta.healthfinder.gov
-database.healthfinder.gov
-repository.healthfinder.gov
-search.healthfinder.gov
-www.healthfinder.gov
-dev.healthfinder.gov

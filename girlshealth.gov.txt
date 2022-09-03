@@ -1,4 +1,0 @@
-_dmarc.girlshealth.gov
-dev.girlshealth.gov
-www.girlshealth.gov
-search.girlshealth.gov
